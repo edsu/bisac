@@ -94,11 +94,6 @@
     "pref_label": "Language Arts & Disciplines / Library & Information Science / Archives & Special Libraries", 
     "notation": "LAN025020"
   }, 
-  "Fiction / Dystopian *": {
-    "alt_labels": [], 
-    "pref_label": "Fiction / Dystopian *", 
-    "notation": "FIC055000"
-  }, 
   "Performing Arts / Television / History & Criticism": {
     "alt_labels": [], 
     "pref_label": "Performing Arts / Television / History & Criticism", 
@@ -241,10 +236,10 @@
     "pref_label": "Computers / Web / User Generated Content", 
     "notation": "COM060150"
   }, 
-  "Political Science / World / Caribbean & Latin American *": {
+  "Technology & Engineering / Sensors": {
     "alt_labels": [], 
-    "pref_label": "Political Science / World / Caribbean & Latin American *", 
-    "notation": "POL057000"
+    "pref_label": "Technology & Engineering / Sensors", 
+    "notation": "TEC064000"
   }, 
   "Bibles / Common English Bible / Children": {
     "alt_labels": [], 
@@ -321,6 +316,11 @@
     "pref_label": "Computers / Networking / Network Protocols", 
     "notation": "COM043040"
   }, 
+  "Political Science / World / Caribbean & Latin American": {
+    "alt_labels": [], 
+    "pref_label": "Political Science / World / Caribbean & Latin American", 
+    "notation": "POL057000"
+  }, 
   "House & Home / Do-it-yourself / General": {
     "alt_labels": [], 
     "pref_label": "House & Home / Do-it-yourself / General", 
@@ -337,6 +337,11 @@
     ], 
     "pref_label": "Juvenile Fiction / Boys & Men", 
     "notation": "JUV005000"
+  }, 
+  "Law / Malpractice": {
+    "alt_labels": [], 
+    "pref_label": "Law / Malpractice", 
+    "notation": "LAW095000"
   }, 
   "Medical / Audiology & Speech Pathology": {
     "alt_labels": [
@@ -592,10 +597,10 @@
     "pref_label": "Science / Life Sciences / Zoology / General", 
     "notation": "SCI070000"
   }, 
-  "Drama / Gay & Lesbian *": {
+  "Medical / Surgery / Neurosurgery": {
     "alt_labels": [], 
-    "pref_label": "Drama / Gay & Lesbian *", 
-    "notation": "DRA017000"
+    "pref_label": "Medical / Surgery / Neurosurgery", 
+    "notation": "MED085010"
   }, 
   "Sports & Recreation / Sailing": {
     "alt_labels": [], 
@@ -652,10 +657,10 @@
     "pref_label": "Education / Educational Psychology", 
     "notation": "EDU009000"
   }, 
-  "Literary Collections / European / German *": {
+  "Political Science / American Government / Judicial Branch": {
     "alt_labels": [], 
-    "pref_label": "Literary Collections / European / German *", 
-    "notation": "LCO008030"
+    "pref_label": "Political Science / American Government / Judicial Branch", 
+    "notation": "POL040030"
   }, 
   "Language Arts & Disciplines / Linguistics / Syntax": {
     "alt_labels": [], 
@@ -682,15 +687,17 @@
     "pref_label": "Medical / Nursing / Critical & Intensive Care", 
     "notation": "MED058030"
   }, 
+  "Science / Acoustics & Sound": {
+    "alt_labels": [
+      "Science / Sound"
+    ], 
+    "pref_label": "Science / Acoustics & Sound", 
+    "notation": "SCI001000"
+  }, 
   "Music / Genres & Styles / Choral": {
     "alt_labels": [], 
     "pref_label": "Music / Genres & Styles / Choral", 
     "notation": "MUS051000"
-  }, 
-  "Education / Teaching Methods & Materials / Language Arts *": {
-    "alt_labels": [], 
-    "pref_label": "Education / Teaching Methods & Materials / Language Arts *", 
-    "notation": "EDU029080"
   }, 
   "Fiction / Classics": {
     "alt_labels": [], 
@@ -814,10 +821,15 @@
     "pref_label": "Science / Mechanics / Hydrodynamics", 
     "notation": "SCI095000"
   }, 
-  "Literary Collections / Diaries & Journals *": {
+  "Poetry / Subjects & Themes / Death": {
     "alt_labels": [], 
-    "pref_label": "Literary Collections / Diaries & Journals *", 
-    "notation": "LCO015000"
+    "pref_label": "Poetry / Subjects & Themes / Death", 
+    "notation": "POE023010"
+  }, 
+  "Science / General": {
+    "alt_labels": [], 
+    "pref_label": "Science / General", 
+    "notation": "SCI000000"
   }, 
   "Political Science / American Government / State & Provincial": {
     "alt_labels": [], 
@@ -873,11 +885,6 @@
     "alt_labels": [], 
     "pref_label": "Education / Counseling / Crisis Management", 
     "notation": "EDU045000"
-  }, 
-  "Literary Collections / Medieval *": {
-    "alt_labels": [], 
-    "pref_label": "Literary Collections / Medieval *", 
-    "notation": "LCO017000"
   }, 
   "Science / Life Sciences / Developmental Biology": {
     "alt_labels": [], 
@@ -1053,11 +1060,6 @@
     "pref_label": "Social Science / Ethnic Studies / African American Studies", 
     "notation": "SOC001000"
   }, 
-  "Poetry / Asian / Chinese *": {
-    "alt_labels": [], 
-    "pref_label": "Poetry / Asian / Chinese *", 
-    "notation": "POE009010"
-  }, 
   "Law / Business & Financial": {
     "alt_labels": [
       "Law / Franchising"
@@ -1090,12 +1092,10 @@
     "pref_label": "Computers / Data Transmission Systems / Wireless", 
     "notation": "COM020090"
   }, 
-  "Self-help / Sexual Instruction": {
-    "alt_labels": [
-      "Family & Relationships / Sexuality"
-    ], 
-    "pref_label": "Self-help / Sexual Instruction", 
-    "notation": "SEL034000"
+  "Literary Collections / European / Scandinavian": {
+    "alt_labels": [], 
+    "pref_label": "Literary Collections / European / Scandinavian", 
+    "notation": "LCO008050"
   }, 
   "Science / Physics / Mathematical & Computational": {
     "alt_labels": [], 
@@ -1182,10 +1182,10 @@
     "pref_label": "Juvenile Fiction / Holidays & Celebrations / Easter & Lent", 
     "notation": "JUV017020"
   }, 
-  "Poetry / Subjects & Themes / Nature *": {
+  "Religion / Islam / General": {
     "alt_labels": [], 
-    "pref_label": "Poetry / Subjects & Themes / Nature *", 
-    "notation": "POE023030"
+    "pref_label": "Religion / Islam / General", 
+    "notation": "REL037000"
   }, 
   "Business & Economics / International / Taxation": {
     "alt_labels": [], 
@@ -1240,11 +1240,6 @@
     "alt_labels": [], 
     "pref_label": "Juvenile Nonfiction / Social Issues / Drugs, Alcohol, Substance Abuse", 
     "notation": "JNF053040"
-  }, 
-  "Education / Educational Policy & Reform / Charter Schools *": {
-    "alt_labels": [], 
-    "pref_label": "Education / Educational Policy & Reform / Charter Schools *", 
-    "notation": "EDU034020"
   }, 
   "Art / Subjects & Themes / Plants & Animals": {
     "alt_labels": [], 
@@ -1373,11 +1368,6 @@
     "pref_label": "Technology & Engineering / Surveying", 
     "notation": "TEC054000"
   }, 
-  "Poetry / Subjects & Themes / Places *": {
-    "alt_labels": [], 
-    "pref_label": "Poetry / Subjects & Themes / Places *", 
-    "notation": "POE023040"
-  }, 
   "Technology & Engineering / Construction / Roofing": {
     "alt_labels": [], 
     "pref_label": "Technology & Engineering / Construction / Roofing", 
@@ -1413,10 +1403,10 @@
     "pref_label": "Social Science / Future Studies", 
     "notation": "SOC037000"
   }, 
-  "Literary Collections / Asian / Japanese *": {
+  "Poetry / European / Italian": {
     "alt_labels": [], 
-    "pref_label": "Literary Collections / Asian / Japanese *", 
-    "notation": "LCO004030"
+    "pref_label": "Poetry / European / Italian", 
+    "notation": "POE019000"
   }, 
   "Art / Techniques / Sculpting": {
     "alt_labels": [], 
@@ -1524,10 +1514,10 @@
     "pref_label": "Crafts & Hobbies / Folkcrafts", 
     "notation": "CRA047000"
   }, 
-  "Drama / Medieval *": {
+  "Comics & Graphic Novels / Manga / Gay & Lesbian": {
     "alt_labels": [], 
-    "pref_label": "Drama / Medieval *", 
-    "notation": "DRA018000"
+    "pref_label": "Comics & Graphic Novels / Manga / Gay & Lesbian", 
+    "notation": "CGN004130"
   }, 
   "Self-help / Personal Growth / Memory Improvement": {
     "alt_labels": [], 
@@ -1593,6 +1583,11 @@
     "alt_labels": [], 
     "pref_label": "Juvenile Fiction / Holidays & Celebrations / Other, Religious", 
     "notation": "JUV017090"
+  }, 
+  "Political Science / World / Russian &  Former Soviet Union": {
+    "alt_labels": [], 
+    "pref_label": "Political Science / World / Russian &  Former Soviet Union", 
+    "notation": "POL060000"
   }, 
   "Fiction / Mystery & Detective / Traditional British": {
     "alt_labels": [], 
@@ -1728,10 +1723,20 @@
     "pref_label": "Crafts & Hobbies / Crafts For Children", 
     "notation": "CRA043000"
   }, 
+  "Literary Collections / Women Authors": {
+    "alt_labels": [], 
+    "pref_label": "Literary Collections / Women Authors", 
+    "notation": "LCO019000"
+  }, 
   "Religion / Agnosticism": {
     "alt_labels": [], 
     "pref_label": "Religion / Agnosticism", 
     "notation": "REL001000"
+  }, 
+  "Performing Arts / Television / General": {
+    "alt_labels": [], 
+    "pref_label": "Performing Arts / Television / General", 
+    "notation": "PER010000"
   }, 
   "Juvenile Fiction / People & Places / United States / Hispanic & Latino": {
     "alt_labels": [], 
@@ -1778,10 +1783,10 @@
     "pref_label": "Medical / Mental Health", 
     "notation": "MED102000"
   }, 
-  "Crafts & Hobbies / Baskets": {
+  "Literary Collections / Ancient & Classical": {
     "alt_labels": [], 
-    "pref_label": "Crafts & Hobbies / Baskets", 
-    "notation": "CRA002000"
+    "pref_label": "Literary Collections / Ancient & Classical", 
+    "notation": "LCO003000"
   }, 
   "Juvenile Nonfiction / Music / Jazz": {
     "alt_labels": [], 
@@ -1882,10 +1887,10 @@
     "pref_label": "Business & Economics / Industries / Automobile Industry", 
     "notation": "BUS070020"
   }, 
-  "Poetry / Gay & Lesbian *": {
+  "Reference / Research": {
     "alt_labels": [], 
-    "pref_label": "Poetry / Gay & Lesbian *", 
-    "notation": "POE021000"
+    "pref_label": "Reference / Research", 
+    "notation": "REF020000"
   }, 
   "Literary Criticism / American / Asian American": {
     "alt_labels": [], 
@@ -1964,11 +1969,6 @@
     "pref_label": "Juvenile Nonfiction / Sports & Recreation / Equestrian", 
     "notation": "JNF054170"
   }, 
-  "Political Science / World / European *": {
-    "alt_labels": [], 
-    "pref_label": "Political Science / World / European *", 
-    "notation": "POL058000"
-  }, 
   "Gardening / Container": {
     "alt_labels": [], 
     "pref_label": "Gardening / Container", 
@@ -2015,11 +2015,6 @@
     "alt_labels": [], 
     "pref_label": "Bibles / New Century Version / General", 
     "notation": "BIB011000"
-  }, 
-  "Family & Relationships / Attention Deficit Disorder (add-adhd) *": {
-    "alt_labels": [], 
-    "pref_label": "Family & Relationships / Attention Deficit Disorder (add-adhd) *", 
-    "notation": "FAM047000"
   }, 
   "Juvenile Nonfiction / People & Places / Polar Regions": {
     "alt_labels": [], 
@@ -2130,11 +2125,6 @@
     "pref_label": "Juvenile Fiction / Royalty", 
     "notation": "JUV034000"
   }, 
-  "Poetry / Women Authors *": {
-    "alt_labels": [], 
-    "pref_label": "Poetry / Women Authors *", 
-    "notation": "POE024000"
-  }, 
   "Law / Criminal Procedure": {
     "alt_labels": [], 
     "pref_label": "Law / Criminal Procedure", 
@@ -2195,11 +2185,6 @@
     "pref_label": "Juvenile Nonfiction / Concepts / Colors", 
     "notation": "JNF013020"
   }, 
-  "Poetry / Subjects & Themes / Love *": {
-    "alt_labels": [], 
-    "pref_label": "Poetry / Subjects & Themes / Love *", 
-    "notation": "POE023020"
-  }, 
   "Art / History / Baroque & Rococo": {
     "alt_labels": [], 
     "pref_label": "Art / History / Baroque & Rococo", 
@@ -2219,11 +2204,6 @@
     "alt_labels": [], 
     "pref_label": "Crafts & Hobbies / Model Railroading", 
     "notation": "CRA045000"
-  }, 
-  "Literary Collections / European / Scandinavian *": {
-    "alt_labels": [], 
-    "pref_label": "Literary Collections / European / Scandinavian *", 
-    "notation": "LCO008050"
   }, 
   "Mathematics / Graphic Methods": {
     "alt_labels": [], 
@@ -2291,11 +2271,6 @@
     "alt_labels": [], 
     "pref_label": "Computers / Operating Systems / Unix", 
     "notation": "COM046030"
-  }, 
-  "Literary Collections /  European / Italian *": {
-    "alt_labels": [], 
-    "pref_label": "Literary Collections /  European / Italian *", 
-    "notation": "LC008040"
   }, 
   "Literary Criticism / Feminist": {
     "alt_labels": [], 
@@ -2407,20 +2382,15 @@
     "pref_label": "Technology & Engineering / Manufacturing", 
     "notation": "TEC020000"
   }, 
-  "Fiction / Romance / Science Fiction *": {
-    "alt_labels": [], 
-    "pref_label": "Fiction / Romance / Science Fiction *", 
-    "notation": "FIC027130"
-  }, 
   "Study Aids / Civil Service": {
     "alt_labels": [], 
     "pref_label": "Study Aids / Civil Service", 
     "notation": "STU007000"
   }, 
-  "Juvenile Nonfiction / Health & Daily Living / Safety": {
+  "Juvenile Nonfiction / Religious / Christian / Holidays & Celebrations": {
     "alt_labels": [], 
-    "pref_label": "Juvenile Nonfiction / Health & Daily Living / Safety", 
-    "notation": "JNF024080"
+    "pref_label": "Juvenile Nonfiction / Religious / Christian / Holidays & Celebrations", 
+    "notation": "JNF049240"
   }, 
   "Cooking / Beverages / Non-alcoholic": {
     "alt_labels": [], 
@@ -2454,11 +2424,6 @@
     "pref_label": "Religion / Mysticism", 
     "notation": "REL047000"
   }, 
-  "Political Science / Commentary & Opinion *": {
-    "alt_labels": [], 
-    "pref_label": "Political Science / Commentary & Opinion *", 
-    "notation": "POL046000"
-  }, 
   "Juvenile Nonfiction / Sports & Recreation / Roller & In-line Skating": {
     "alt_labels": [], 
     "pref_label": "Juvenile Nonfiction / Sports & Recreation / Roller & In-line Skating", 
@@ -2473,6 +2438,11 @@
     "alt_labels": [], 
     "pref_label": "History / Europe / Austria & Hungary", 
     "notation": "HIS040000"
+  }, 
+  "Science / Earth Sciences / Mineralogy": {
+    "alt_labels": [], 
+    "pref_label": "Science / Earth Sciences / Mineralogy", 
+    "notation": "SCI048000"
   }, 
   "Juvenile Nonfiction / Music / Classical": {
     "alt_labels": [], 
@@ -2568,10 +2538,10 @@
     "pref_label": "Comics & Graphic Novels / Romance", 
     "notation": "CGN004090"
   }, 
-  "Humor / Topic / Sports": {
+  "Fiction / Legal": {
     "alt_labels": [], 
-    "pref_label": "Humor / Topic / Sports", 
-    "notation": "HUM013000"
+    "pref_label": "Fiction / Legal", 
+    "notation": "FIC034000"
   }, 
   "Computers / Online Services / Resource Directories": {
     "alt_labels": [], 
@@ -2712,10 +2682,10 @@
     "pref_label": "Juvenile Nonfiction / History / Exploration & Discovery", 
     "notation": "JNF025080"
   }, 
-  "Education / Teaching Methods & Materials / Social Science": {
+  "Design / Graphic Arts / Typography": {
     "alt_labels": [], 
-    "pref_label": "Education / Teaching Methods & Materials / Social Science", 
-    "notation": "EDU029040"
+    "pref_label": "Design / Graphic Arts / Typography", 
+    "notation": "DES007050"
   }, 
   "Performing Arts / Radio / General": {
     "alt_labels": [], 
@@ -2797,10 +2767,10 @@
     "pref_label": "Poetry / American / African American", 
     "notation": "POE005050"
   }, 
-  "Juvenile Fiction / General": {
+  "Family & Relationships / Child Development": {
     "alt_labels": [], 
-    "pref_label": "Juvenile Fiction / General", 
-    "notation": "JUV000000"
+    "pref_label": "Family & Relationships / Child Development", 
+    "notation": "FAM011000"
   }, 
   "Medical / Gynecology & Obstetrics": {
     "alt_labels": [
@@ -2838,6 +2808,11 @@
     "alt_labels": [], 
     "pref_label": "Juvenile Nonfiction / Travel", 
     "notation": "JNF058000"
+  }, 
+  "Social Science / Regional Studies": {
+    "alt_labels": [], 
+    "pref_label": "Social Science / Regional Studies", 
+    "notation": "SOC053000"
   }, 
   "Juvenile Fiction / People & Places / United States / African American": {
     "alt_labels": [], 
@@ -3152,11 +3127,6 @@
     "pref_label": "Fiction / Action & Adventure", 
     "notation": "FIC002000"
   }, 
-  "Travel / Europe / Switzerland": {
-    "alt_labels": [], 
-    "pref_label": "Travel / Europe / Switzerland", 
-    "notation": "TRV009140"
-  }, 
   "Travel / Parks & Campgrounds": {
     "alt_labels": [
       "Travel / Campgrounds", 
@@ -3309,10 +3279,10 @@
     "pref_label": "Business & Economics / Home-based Businesses", 
     "notation": "BUS080000"
   }, 
-  "Law / Malpractice": {
+  "Literary Criticism / Jewish": {
     "alt_labels": [], 
-    "pref_label": "Law / Malpractice", 
-    "notation": "LAW095000"
+    "pref_label": "Literary Criticism / Jewish", 
+    "notation": "LIT004210"
   }, 
   "Computers / Internet / General": {
     "alt_labels": [], 
@@ -3538,6 +3508,11 @@
     "pref_label": "Religion / Christian Life / Spiritual Warfare", 
     "notation": "REL099000"
   }, 
+  "Science / Life Sciences / Biochemistry": {
+    "alt_labels": [], 
+    "pref_label": "Science / Life Sciences / Biochemistry", 
+    "notation": "SCI007000"
+  }, 
   "Juvenile Fiction / Sports & Recreation / Soccer": {
     "alt_labels": [], 
     "pref_label": "Juvenile Fiction / Sports & Recreation / Soccer", 
@@ -3548,12 +3523,10 @@
     "pref_label": "Gardening / Essays", 
     "notation": "GAR002000"
   }, 
-  "Science / Acoustics & Sound": {
-    "alt_labels": [
-      "Science / Sound"
-    ], 
-    "pref_label": "Science / Acoustics & Sound", 
-    "notation": "SCI001000"
+  "Education / Administration / School Superintendents & Principals": {
+    "alt_labels": [], 
+    "pref_label": "Education / Administration / School Superintendents & Principals", 
+    "notation": "EDU001040"
   }, 
   "Juvenile Fiction / Animals / Apes, Monkeys, Etc.": {
     "alt_labels": [], 
@@ -3659,10 +3632,10 @@
     "pref_label": "Technology & Engineering / Environmental / Pollution Control", 
     "notation": "TEC010010"
   }, 
-  "Education / Educational Policy & Reform / Federal Legislation *": {
+  "Philosophy / Reference": {
     "alt_labels": [], 
-    "pref_label": "Education / Educational Policy & Reform / Federal Legislation *", 
-    "notation": "EDU034030"
+    "pref_label": "Philosophy / Reference", 
+    "notation": "PHI021000"
   }, 
   "Juvenile Fiction / Religious / Christian / Sports & Recreation": {
     "alt_labels": [], 
@@ -3751,12 +3724,10 @@
     "pref_label": "Foreign Language Study / Finnish", 
     "notation": "FOR037000"
   }, 
-  "Science / Experiments & Projects": {
-    "alt_labels": [
-      "Science / Projects"
-    ], 
-    "pref_label": "Science / Experiments & Projects", 
-    "notation": "SCI028000"
+  "Education / Violence & Harassment": {
+    "alt_labels": [], 
+    "pref_label": "Education / Violence & Harassment", 
+    "notation": "EDU055000"
   }, 
   "Law / Entertainment": {
     "alt_labels": [], 
@@ -3778,10 +3749,10 @@
     "pref_label": "Education / Administration / Facility Management", 
     "notation": "EDU001010"
   }, 
-  "Social Science / Regional Studies": {
+  "Poetry / Asian / Japanese": {
     "alt_labels": [], 
-    "pref_label": "Social Science / Regional Studies", 
-    "notation": "SOC053000"
+    "pref_label": "Poetry / Asian / Japanese", 
+    "notation": "POE009020"
   }, 
   "Pets / Essays": {
     "alt_labels": [], 
@@ -3793,10 +3764,20 @@
     "pref_label": "Juvenile Fiction / Social Issues / Runaways", 
     "notation": "JUV039130"
   }, 
+  "Juvenile Nonfiction / Animals / Cats": {
+    "alt_labels": [], 
+    "pref_label": "Juvenile Nonfiction / Animals / Cats", 
+    "notation": "JNF003040"
+  }, 
   "Health & Fitness / Nutrition": {
     "alt_labels": [], 
     "pref_label": "Health & Fitness / Nutrition", 
     "notation": "HEA017000"
+  }, 
+  "Drama / European / Spanish & Portuguese": {
+    "alt_labels": [], 
+    "pref_label": "Drama / European / Spanish & Portuguese", 
+    "notation": "DRA004040"
   }, 
   "Crafts & Hobbies / Puppets & Puppetry": {
     "alt_labels": [], 
@@ -3889,11 +3870,6 @@
     "alt_labels": [], 
     "pref_label": "Business & Economics / Insurance / Health", 
     "notation": "BUS033040"
-  }, 
-  "Political Science / World / Russian &  Former Soviet Union *": {
-    "alt_labels": [], 
-    "pref_label": "Political Science / World / Russian &  Former Soviet Union *", 
-    "notation": "POL060000"
   }, 
   "Medical / Pharmacy": {
     "alt_labels": [], 
@@ -3994,6 +3970,11 @@
     "alt_labels": [], 
     "pref_label": "Juvenile Fiction / Concepts / Senses & Sensation", 
     "notation": "JUV009050"
+  }, 
+  "Education / Educational Policy & Reform / Federal Legislation": {
+    "alt_labels": [], 
+    "pref_label": "Education / Educational Policy & Reform / Federal Legislation", 
+    "notation": "EDU034030"
   }, 
   "Transportation / Automotive / Customizing": {
     "alt_labels": [], 
@@ -4100,10 +4081,10 @@
     "pref_label": "Body, Mind & Spirit / Ancient Mysteries & Controversial Knowledge", 
     "notation": "OCC031000"
   }, 
-  "Juvenile Nonfiction / Animals / Dinosaurs & Prehistoric Creatures": {
+  "Fiction / Science Fiction / Steampunk": {
     "alt_labels": [], 
-    "pref_label": "Juvenile Nonfiction / Animals / Dinosaurs & Prehistoric Creatures", 
-    "notation": "JNF003050"
+    "pref_label": "Fiction / Science Fiction / Steampunk", 
+    "notation": "FIC028060"
   }, 
   "Technology & Engineering / Fisheries & Aquaculture": {
     "alt_labels": [
@@ -4191,11 +4172,6 @@
     "pref_label": "Technology & Engineering / Industrial Health & Safety", 
     "notation": "TEC017000"
   }, 
-  "Health & Fitness / Diseases / Gastrointestinal": {
-    "alt_labels": [], 
-    "pref_label": "Health & Fitness / Diseases / Gastrointestinal", 
-    "notation": "HEA039010"
-  }, 
   "Antiques & Collectibles / Clocks & Watches": {
     "alt_labels": [
       "Antiques & Collectibles / Watches"
@@ -4220,11 +4196,6 @@
     "pref_label": "Computers / Programming Languages / Uml", 
     "notation": "COM051450"
   }, 
-  "Fiction / Asian American *": {
-    "alt_labels": [], 
-    "pref_label": "Fiction / Asian American *", 
-    "notation": "FIC054000"
-  }, 
   "Crafts & Hobbies / Pottery & Ceramics": {
     "alt_labels": [
       "Crafts & Hobbies / Ceramics"
@@ -4232,10 +4203,10 @@
     "pref_label": "Crafts & Hobbies / Pottery & Ceramics", 
     "notation": "CRA028000"
   }, 
-  "Science / Physics / Geophysics": {
+  "Poetry / Gay & Lesbian": {
     "alt_labels": [], 
-    "pref_label": "Science / Physics / Geophysics", 
-    "notation": "SCI032000"
+    "pref_label": "Poetry / Gay & Lesbian", 
+    "notation": "POE021000"
   }, 
   "Travel / Special Interest / Senior": {
     "alt_labels": [], 
@@ -4257,10 +4228,10 @@
     "pref_label": "Science / Time", 
     "notation": "SCI066000"
   }, 
-  "Fiction / Legal": {
+  "Body, Mind & Spirit / Spirituality / Divine Mother, The Goddess, Quan Yin": {
     "alt_labels": [], 
-    "pref_label": "Fiction / Legal", 
-    "notation": "FIC034000"
+    "pref_label": "Body, Mind & Spirit / Spirituality / Divine Mother, The Goddess, Quan Yin", 
+    "notation": "OCC036050"
   }, 
   "History / Military / Naval": {
     "alt_labels": [], 
@@ -4331,11 +4302,6 @@
     "pref_label": "Cooking / Regional & Ethnic / Pacific Rim", 
     "notation": "CKB097000"
   }, 
-  "Juvenile Nonfiction / Animals / Baby Animals *": {
-    "alt_labels": [], 
-    "pref_label": "Juvenile Nonfiction / Animals / Baby Animals *", 
-    "notation": "JNF003330"
-  }, 
   "Juvenile Fiction / Business, Careers, Occupations": {
     "alt_labels": [
       "Juvenile Fiction / Occupations", 
@@ -4394,12 +4360,10 @@
     "pref_label": "History / United States / Colonial Period (1600-1775)", 
     "notation": "HIS036020"
   }, 
-  "Political Science / Utopias *": {
-    "alt_labels": [
-      "Philosophy / Utopian"
-    ], 
-    "pref_label": "Political Science / Utopias *", 
-    "notation": "POL051000"
+  "Science / Study & Teaching": {
+    "alt_labels": [], 
+    "pref_label": "Science / Study & Teaching", 
+    "notation": "SCI063000"
   }, 
   "Fiction / Science Fiction / General": {
     "alt_labels": [], 
@@ -4458,10 +4422,10 @@
     "pref_label": "Education / Administration / General", 
     "notation": "EDU001000"
   }, 
-  "Juvenile Nonfiction / Readers / Chapter Books": {
+  "Juvenile Fiction / Animals / Nocturnal": {
     "alt_labels": [], 
-    "pref_label": "Juvenile Nonfiction / Readers / Chapter Books", 
-    "notation": "JNF047000"
+    "pref_label": "Juvenile Fiction / Animals / Nocturnal", 
+    "notation": "JUV002360"
   }, 
   "Crafts & Hobbies / Polymer Clay": {
     "alt_labels": [], 
@@ -4498,6 +4462,13 @@
     "pref_label": "Business & Economics / Interest", 
     "notation": "BUS034000"
   }, 
+  "Science / Experiments & Projects": {
+    "alt_labels": [
+      "Science / Projects"
+    ], 
+    "pref_label": "Science / Experiments & Projects", 
+    "notation": "SCI028000"
+  }, 
   "Juvenile Nonfiction / Music / Rock": {
     "alt_labels": [], 
     "pref_label": "Juvenile Nonfiction / Music / Rock", 
@@ -4516,10 +4487,10 @@
     "pref_label": "Antiques & Collectibles / Teddy Bears", 
     "notation": "ANT045000"
   }, 
-  "Education / Administration / School Superintendents & Principals *": {
+  "Science / Life Sciences / Cell Biology": {
     "alt_labels": [], 
-    "pref_label": "Education / Administration / School Superintendents & Principals *", 
-    "notation": "EDU001040"
+    "pref_label": "Science / Life Sciences / Cell Biology", 
+    "notation": "SCI017000"
   }, 
   "Juvenile Fiction / Animals / Ducks, Geese, Etc.": {
     "alt_labels": [], 
@@ -4581,10 +4552,10 @@
     "pref_label": "Juvenile Nonfiction / Religious / Christian / Early Readers", 
     "notation": "JNF049200"
   }, 
-  "Science / Physics / General": {
+  "Education / Learning Styles": {
     "alt_labels": [], 
-    "pref_label": "Science / Physics / General", 
-    "notation": "SCI055000"
+    "pref_label": "Education / Learning Styles", 
+    "notation": "EDU051000"
   }, 
   "Medical / Physician & Patient": {
     "alt_labels": [
@@ -4592,11 +4563,6 @@
     ], 
     "pref_label": "Medical / Physician & Patient", 
     "notation": "MED074000"
-  }, 
-  "Philosophy / Reference": {
-    "alt_labels": [], 
-    "pref_label": "Philosophy / Reference", 
-    "notation": "PHI021000"
   }, 
   "Foreign Language Study / Hindi": {
     "alt_labels": [], 
@@ -4652,6 +4618,11 @@
     "alt_labels": [], 
     "pref_label": "Religion / Monasticism", 
     "notation": "REL086000"
+  }, 
+  "Juvenile Fiction / Animals / Baby Animals": {
+    "alt_labels": [], 
+    "pref_label": "Juvenile Fiction / Animals / Baby Animals", 
+    "notation": "JUV002370"
   }, 
   "Juvenile Nonfiction / Sports & Recreation / Camping & Outdoor Activities": {
     "alt_labels": [], 
@@ -4718,10 +4689,10 @@
     "pref_label": "Music / Instruction & Study / Theory", 
     "notation": "MUS041000"
   }, 
-  "Law / Reference": {
+  "Literary Criticism / Comics & Graphic Novels": {
     "alt_labels": [], 
-    "pref_label": "Law / Reference", 
-    "notation": "LAW079000"
+    "pref_label": "Literary Criticism / Comics & Graphic Novels", 
+    "notation": "LIT017000"
   }, 
   "Bibles / New International Version / Study": {
     "alt_labels": [], 
@@ -4940,6 +4911,11 @@
     "pref_label": "Juvenile Nonfiction / House & Home", 
     "notation": "JNF027000"
   }, 
+  "Literary Collections / European / German": {
+    "alt_labels": [], 
+    "pref_label": "Literary Collections / European / German", 
+    "notation": "LCO008030"
+  }, 
   "Science / Research & Methodology": {
     "alt_labels": [
       "Science / Methodology"
@@ -4972,11 +4948,6 @@
     "pref_label": "Biography & Autobiography / Culinary", 
     "notation": "BIO029000"
   }, 
-  "Poetry / European / French *": {
-    "alt_labels": [], 
-    "pref_label": "Poetry / European / French *", 
-    "notation": "POE017000"
-  }, 
   "Juvenile Nonfiction / History / United States / 21st Century": {
     "alt_labels": [], 
     "pref_label": "Juvenile Nonfiction / History / United States / 21st Century", 
@@ -5007,12 +4978,10 @@
     "pref_label": "Psychology / Creative Ability", 
     "notation": "PSY034000"
   }, 
-  "Reference / Bibliographies & Indexes": {
-    "alt_labels": [
-      "Reference / Indexes"
-    ], 
-    "pref_label": "Reference / Bibliographies & Indexes", 
-    "notation": "REF004000"
+  "Political Science / Political Ideologies / Radicalism": {
+    "alt_labels": [], 
+    "pref_label": "Political Science / Political Ideologies / Radicalism", 
+    "notation": "POL042040"
   }, 
   "History / Modern / 17th Century": {
     "alt_labels": [], 
@@ -5064,11 +5033,6 @@
     "pref_label": "Foreign Language Study / Celtic Languages", 
     "notation": "FOR029000"
   }, 
-  "Religion / Christian Life / Professional Growth": {
-    "alt_labels": [], 
-    "pref_label": "Religion / Christian Life / Professional Growth", 
-    "notation": "REL012090"
-  }, 
   "Travel / United States / South / General": {
     "alt_labels": [], 
     "pref_label": "Travel / United States / South / General", 
@@ -5093,6 +5057,11 @@
     "alt_labels": [], 
     "pref_label": "Comics & Graphic Novels / Superheroes", 
     "notation": "CGN004080"
+  }, 
+  "Education / Teaching Methods & Materials / Language Arts": {
+    "alt_labels": [], 
+    "pref_label": "Education / Teaching Methods & Materials / Language Arts", 
+    "notation": "EDU029080"
   }, 
   "Social Science / Sociology / General": {
     "alt_labels": [], 
@@ -5193,11 +5162,6 @@
     "pref_label": "Computers / Optical Data Processing", 
     "notation": "COM047000"
   }, 
-  "Drama / European / Spanish & Portuguese *": {
-    "alt_labels": [], 
-    "pref_label": "Drama / European / Spanish & Portuguese *", 
-    "notation": "DRA004040"
-  }, 
   "Design / Industrial": {
     "alt_labels": [], 
     "pref_label": "Design / Industrial", 
@@ -5228,10 +5192,10 @@
     "pref_label": "Education / Bilingual Education", 
     "notation": "EDU005000"
   }, 
-  "Transportation / Automotive / History": {
+  "Poetry / European / French": {
     "alt_labels": [], 
-    "pref_label": "Transportation / Automotive / History", 
-    "notation": "TRA001050"
+    "pref_label": "Poetry / European / French", 
+    "notation": "POE017000"
   }, 
   "Nature / Animal Rights": {
     "alt_labels": [], 
@@ -5412,11 +5376,6 @@
     "pref_label": "Juvenile Fiction / People & Places / Australia & Oceania", 
     "notation": "JUV030080"
   }, 
-  "Literary Collections / Gay & Lesbian *": {
-    "alt_labels": [], 
-    "pref_label": "Literary Collections / Gay & Lesbian *", 
-    "notation": "LCO016000"
-  }, 
   "Photography / Collections, Catalogs, Exhibitions / General": {
     "alt_labels": [], 
     "pref_label": "Photography / Collections, Catalogs, Exhibitions / General", 
@@ -5532,6 +5491,11 @@
     "pref_label": "Psychology / Psychopathology / Anxieties & Phobias", 
     "notation": "PSY022060"
   }, 
+  "Juvenile Nonfiction / Animals / Dinosaurs & Prehistoric Creatures": {
+    "alt_labels": [], 
+    "pref_label": "Juvenile Nonfiction / Animals / Dinosaurs & Prehistoric Creatures", 
+    "notation": "JNF003050"
+  }, 
   "Computers / Natural Language Processing": {
     "alt_labels": [
       "Language Arts & Disciplines / Linguistics"
@@ -5546,10 +5510,10 @@
     "pref_label": "Medical / Ethics", 
     "notation": "MED050000"
   }, 
-  "Foreign Language Study / Persian": {
+  "Literary Collections / African": {
     "alt_labels": [], 
-    "pref_label": "Foreign Language Study / Persian", 
-    "notation": "FOR040000"
+    "pref_label": "Literary Collections / African", 
+    "notation": "LCO001000"
   }, 
   "Science / Life Sciences / Zoology / Primatology": {
     "alt_labels": [], 
@@ -5609,11 +5573,6 @@
     "alt_labels": [], 
     "pref_label": "Psychology / Movements / Psychoanalysis", 
     "notation": "PSY026000"
-  }, 
-  "Poetry / European / German *": {
-    "alt_labels": [], 
-    "pref_label": "Poetry / European / German *", 
-    "notation": "PEO018000"
   }, 
   "Science / Life Sciences / Human Anatomy & Physiology": {
     "alt_labels": [], 
@@ -5922,10 +5881,10 @@
     "pref_label": "Travel / Road Travel", 
     "notation": "TRV031000"
   }, 
-  "Science / Earth Sciences / Mineralogy": {
+  "Science / Physics / Geophysics": {
     "alt_labels": [], 
-    "pref_label": "Science / Earth Sciences / Mineralogy", 
-    "notation": "SCI048000"
+    "pref_label": "Science / Physics / Geophysics", 
+    "notation": "SCI032000"
   }, 
   "Juvenile Nonfiction / Concepts / Size & Shape": {
     "alt_labels": [], 
@@ -6024,6 +5983,11 @@
     "pref_label": "Law / Gender & The Law", 
     "notation": "LAW043000"
   }, 
+  "Fiction / Romance / Time Travel": {
+    "alt_labels": [], 
+    "pref_label": "Fiction / Romance / Time Travel", 
+    "notation": "FIC027090"
+  }, 
   "House & Home / General": {
     "alt_labels": [], 
     "pref_label": "House & Home / General", 
@@ -6034,10 +5998,10 @@
     "pref_label": "Business & Economics / Investments & Securities / General", 
     "notation": "BUS036000"
   }, 
-  "Body, Mind & Spirit / Spirituality / Divine Mother, The Goddess, Quan Yin": {
+  "Political Science / Women In Politics": {
     "alt_labels": [], 
-    "pref_label": "Body, Mind & Spirit / Spirituality / Divine Mother, The Goddess, Quan Yin", 
-    "notation": "OCC036050"
+    "pref_label": "Political Science / Women In Politics", 
+    "notation": "POL052000"
   }, 
   "Language Arts & Disciplines / Linguistics / Semantics": {
     "alt_labels": [], 
@@ -6062,11 +6026,6 @@
     "alt_labels": [], 
     "pref_label": "Juvenile Fiction / Holidays & Celebrations / Kwanzaa", 
     "notation": "JUV017050"
-  }, 
-  "Reference / Research": {
-    "alt_labels": [], 
-    "pref_label": "Reference / Research", 
-    "notation": "REF020000"
   }, 
   "Medical / Nursing / Research & Theory": {
     "alt_labels": [], 
@@ -6107,6 +6066,11 @@
     "alt_labels": [], 
     "pref_label": "Education / Reference", 
     "notation": "EDU024000"
+  }, 
+  "Drama / European / German": {
+    "alt_labels": [], 
+    "pref_label": "Drama / European / German", 
+    "notation": "DRA004020"
   }, 
   "Body, Mind & Spirit / Astrology / Eastern": {
     "alt_labels": [], 
@@ -6435,15 +6399,20 @@
     "pref_label": "Reference / Curiosities & Wonders", 
     "notation": "REF007000"
   }, 
-  "Health & Fitness / General": {
+  "Nature / Ecosystems & Habitats / Lakes, Ponds & Swamps": {
     "alt_labels": [], 
-    "pref_label": "Health & Fitness / General", 
-    "notation": "HEA000000"
+    "pref_label": "Nature / Ecosystems & Habitats / Lakes, Ponds & Swamps", 
+    "notation": "NAT018000"
   }, 
   "Poetry / European / General": {
     "alt_labels": [], 
     "pref_label": "Poetry / European / General", 
     "notation": "POE005030"
+  }, 
+  "Transportation / Automotive / History": {
+    "alt_labels": [], 
+    "pref_label": "Transportation / Automotive / History", 
+    "notation": "TRA001050"
   }, 
   "Reference / Dictionaries": {
     "alt_labels": [], 
@@ -6559,11 +6528,6 @@
     "pref_label": "Religion / Christianity / Anglican", 
     "notation": "REL003000"
   }, 
-  "Political Science / World / Australian & Oceanian *": {
-    "alt_labels": [], 
-    "pref_label": "Political Science / World / Australian & Oceanian *", 
-    "notation": "POL055000"
-  }, 
   "Body, Mind & Spirit / Gaia & Earth Energies": {
     "alt_labels": [], 
     "pref_label": "Body, Mind & Spirit / Gaia & Earth Energies", 
@@ -6668,6 +6632,11 @@
     "pref_label": "Medical / Veterinary Medicine / General", 
     "notation": "MED089000"
   }, 
+  "Computers / Computer Literacy": {
+    "alt_labels": [], 
+    "pref_label": "Computers / Computer Literacy", 
+    "notation": "COM013000"
+  }, 
   "Juvenile Nonfiction / Sports & Recreation / Gymnastics": {
     "alt_labels": [], 
     "pref_label": "Juvenile Nonfiction / Sports & Recreation / Gymnastics", 
@@ -6693,20 +6662,20 @@
     "pref_label": "Art / Techniques / Color", 
     "notation": "ART051000"
   }, 
-  "Political Science / Public Policy / Communication Policy *": {
+  "Travel / United States / Northeast / New England (ct, Ma, Me, Nh, Ri, Vt)": {
     "alt_labels": [], 
-    "pref_label": "Political Science / Public Policy / Communication Policy *", 
-    "notation": "POL050000"
+    "pref_label": "Travel / United States / Northeast / New England (ct, Ma, Me, Nh, Ri, Vt)", 
+    "notation": "TRV025060"
   }, 
   "Mathematics / History & Philosophy": {
     "alt_labels": [], 
     "pref_label": "Mathematics / History & Philosophy", 
     "notation": "MAT015000"
   }, 
-  "History / United States / 20th Century": {
+  "Health & Fitness / Body Cleansing & Detoxification": {
     "alt_labels": [], 
-    "pref_label": "History / United States / 20th Century", 
-    "notation": "HIS036060"
+    "pref_label": "Health & Fitness / Body Cleansing & Detoxification", 
+    "notation": "HEA047000"
   }, 
   "Art / Business Aspects": {
     "alt_labels": [], 
@@ -6765,11 +6734,6 @@
     "pref_label": "Juvenile Nonfiction / Architecture", 
     "notation": "JNF005000"
   }, 
-  "Literary Collections / Asian / Chinese *": {
-    "alt_labels": [], 
-    "pref_label": "Literary Collections / Asian / Chinese *", 
-    "notation": "LCO004010"
-  }, 
   "Crafts & Hobbies / Models": {
     "alt_labels": [], 
     "pref_label": "Crafts & Hobbies / Models", 
@@ -6810,6 +6774,11 @@
     "pref_label": "Science / Mechanics / Thermodynamics", 
     "notation": "SCI065000"
   }, 
+  "Political Science / Imperialism": {
+    "alt_labels": [], 
+    "pref_label": "Political Science / Imperialism", 
+    "notation": "POL047000"
+  }, 
   "Religion / Christian Theology / Eschatology": {
     "alt_labels": [], 
     "pref_label": "Religion / Christian Theology / Eschatology", 
@@ -6840,11 +6809,6 @@
     "pref_label": "Antiques & Collectibles / Toy Animals", 
     "notation": "ANT049000"
   }, 
-  "Poetry / Subjects & Themes / General *": {
-    "alt_labels": [], 
-    "pref_label": "Poetry / Subjects & Themes / General *", 
-    "notation": "POE023000"
-  }, 
   "Cooking / Health & Healing / Low Salt": {
     "alt_labels": [], 
     "pref_label": "Cooking / Health & Healing / Low Salt", 
@@ -6855,10 +6819,10 @@
     "pref_label": "Juvenile Nonfiction / Social Science / Sociology", 
     "notation": "JNF052040"
   }, 
-  "Cooking / Courses & Dishes / Brunch": {
+  "Education / Vocational": {
     "alt_labels": [], 
-    "pref_label": "Cooking / Courses & Dishes / Brunch", 
-    "notation": "CKB012000"
+    "pref_label": "Education / Vocational", 
+    "notation": "EDU056000"
   }, 
   "Juvenile Nonfiction / Technology / Aeronautics, Astronautics & Space Science": {
     "alt_labels": [], 
@@ -6992,13 +6956,6 @@
     "pref_label": "Travel / Special Interest / Family", 
     "notation": "TRV011000"
   }, 
-  "Performing Arts / Monologues & Scenes *": {
-    "alt_labels": [
-      "Drama / Monologues"
-    ], 
-    "pref_label": "Performing Arts / Monologues & Scenes *", 
-    "notation": "PER020000"
-  }, 
   "Education / Educational Policy & Reform / School Safety": {
     "alt_labels": [], 
     "pref_label": "Education / Educational Policy & Reform / School Safety", 
@@ -7013,6 +6970,11 @@
     "alt_labels": [], 
     "pref_label": "Computers / Programming Languages / C#", 
     "notation": "COM051310"
+  }, 
+  "Literary Collections / Asian / Japanese": {
+    "alt_labels": [], 
+    "pref_label": "Literary Collections / Asian / Japanese", 
+    "notation": "LCO004030"
   }, 
   "Technology & Engineering / Automotive": {
     "alt_labels": [], 
@@ -7038,11 +7000,6 @@
     "alt_labels": [], 
     "pref_label": "Philosophy / Essays", 
     "notation": "PHI035000"
-  }, 
-  "Drama / European / French *": {
-    "alt_labels": [], 
-    "pref_label": "Drama / European / French *", 
-    "notation": "DRA004010"
   }, 
   "Bibles / God's Word / Reference": {
     "alt_labels": [], 
@@ -7153,10 +7110,10 @@
     "pref_label": "Language Arts & Disciplines / Library & Information Science / General", 
     "notation": "LAN025000"
   }, 
-  "Comics & Graphic Novels / Religious *": {
+  "Computers / Programming / General": {
     "alt_labels": [], 
-    "pref_label": "Comics & Graphic Novels / Religious *", 
-    "notation": "CGN011000"
+    "pref_label": "Computers / Programming / General", 
+    "notation": "COM051000"
   }, 
   "Performing Arts / Dance / Reference": {
     "alt_labels": [], 
@@ -7263,11 +7220,6 @@
     "pref_label": "Political Science / Globalization", 
     "notation": "POL033000"
   }, 
-  "Literary Collections / Speeches *": {
-    "alt_labels": [], 
-    "pref_label": "Literary Collections / Speeches *", 
-    "notation": "LCO018000"
-  }, 
   "Foreign Language Study / Swahili": {
     "alt_labels": [], 
     "pref_label": "Foreign Language Study / Swahili", 
@@ -7318,15 +7270,10 @@
     "pref_label": "Computers / Digital Media / General", 
     "notation": "COM087000"
   }, 
-  "Social Science / Black Studies (global)": {
+  "Juvenile Nonfiction / Readers / Chapter Books": {
     "alt_labels": [], 
-    "pref_label": "Social Science / Black Studies (global)", 
-    "notation": "SOC056000"
-  }, 
-  "Juvenile Nonfiction / Animals / Cats": {
-    "alt_labels": [], 
-    "pref_label": "Juvenile Nonfiction / Animals / Cats", 
-    "notation": "JNF003040"
+    "pref_label": "Juvenile Nonfiction / Readers / Chapter Books", 
+    "notation": "JNF047000"
   }, 
   "Computers / Cybernetics": {
     "alt_labels": [], 
@@ -7666,11 +7613,6 @@
     "pref_label": "History / Polar Regions", 
     "notation": "HIS046000"
   }, 
-  "Political Science / World / Asian *": {
-    "alt_labels": [], 
-    "pref_label": "Political Science / World / Asian *", 
-    "notation": "POL054000"
-  }, 
   "Art / General": {
     "alt_labels": [], 
     "pref_label": "Art / General", 
@@ -7738,10 +7680,10 @@
     "pref_label": "Sports & Recreation / Olympics", 
     "notation": "SPO058000"
   }, 
-  "Education / Violence & Harassment *": {
+  "Social Science / Black Studies (global)": {
     "alt_labels": [], 
-    "pref_label": "Education / Violence & Harassment *", 
-    "notation": "EDU055000"
+    "pref_label": "Social Science / Black Studies (global)", 
+    "notation": "SOC056000"
   }, 
   "Study Aids / Psat & Nmsqt (national Merit Scholarship Qualifying Test)": {
     "alt_labels": [], 
@@ -7829,11 +7771,6 @@
     "alt_labels": [], 
     "pref_label": "Religion / Islam / Shi'a", 
     "notation": "REL037040"
-  }, 
-  "Literary Collections / European / French *": {
-    "alt_labels": [], 
-    "pref_label": "Literary Collections / European / French *", 
-    "notation": "LCO008020"
   }, 
   "Computers / Desktop Applications / Project Management Software": {
     "alt_labels": [], 
@@ -7924,15 +7861,15 @@
     "pref_label": "Computers / Hardware / Personal Computers / General", 
     "notation": "COM050000"
   }, 
-  "Photography / Business Aspects": {
+  "Education / Educational Policy & Reform / Charter Schools": {
     "alt_labels": [], 
-    "pref_label": "Photography / Business Aspects", 
-    "notation": "PHO003000"
+    "pref_label": "Education / Educational Policy & Reform / Charter Schools", 
+    "notation": "EDU034020"
   }, 
-  "Juvenile Fiction / Animals / Nocturnal": {
+  "Drama / Asian / Japanese": {
     "alt_labels": [], 
-    "pref_label": "Juvenile Fiction / Animals / Nocturnal", 
-    "notation": "JUV002360"
+    "pref_label": "Drama / Asian / Japanese", 
+    "notation": "DRA005010"
   }, 
   "Juvenile Fiction / Family / Multigenerational": {
     "alt_labels": [], 
@@ -8155,6 +8092,11 @@
     "alt_labels": [], 
     "pref_label": "Juvenile Nonfiction / Animals / Birds", 
     "notation": "JNF003030"
+  }, 
+  "Fiction / Dystopian": {
+    "alt_labels": [], 
+    "pref_label": "Fiction / Dystopian", 
+    "notation": "FIC055000"
   }, 
   "Juvenile Nonfiction / Sports & Recreation / Miscellaneous": {
     "alt_labels": [], 
@@ -8458,10 +8400,10 @@
     "pref_label": "Religion / Christian Theology / Anthropology", 
     "notation": "REL067020"
   }, 
-  "Literary Collections / Asian / Indic *": {
+  "Juvenile Fiction / Concepts / Seasons": {
     "alt_labels": [], 
-    "pref_label": "Literary Collections / Asian / Indic *", 
-    "notation": "LCO004020"
+    "pref_label": "Juvenile Fiction / Concepts / Seasons", 
+    "notation": "JUV009100"
   }, 
   "Juvenile Nonfiction / Health & Daily Living / First Aid": {
     "alt_labels": [], 
@@ -8498,10 +8440,10 @@
     "pref_label": "History / United States / State & Local / Pacific Northwest (or, Wa)", 
     "notation": "HIS036110"
   }, 
-  "Family & Relationships / Peer Pressure": {
+  "Comics & Graphic Novels / Manga / Religious": {
     "alt_labels": [], 
-    "pref_label": "Family & Relationships / Peer Pressure", 
-    "notation": "FAM035000"
+    "pref_label": "Comics & Graphic Novels / Manga / Religious", 
+    "notation": "CGN004220"
   }, 
   "Design / Graphic Arts / Illustration": {
     "alt_labels": [], 
@@ -8649,6 +8591,11 @@
     "pref_label": "Sports & Recreation / Coaching / Basketball", 
     "notation": "SPO061010"
   }, 
+  "Literary Collections / Diaries & Journals": {
+    "alt_labels": [], 
+    "pref_label": "Literary Collections / Diaries & Journals", 
+    "notation": "LCO015000"
+  }, 
   "Study Aids / Professional": {
     "alt_labels": [], 
     "pref_label": "Study Aids / Professional", 
@@ -8663,10 +8610,20 @@
     "pref_label": "Health & Fitness / Food Content Guides", 
     "notation": "HEA034000"
   }, 
+  "Science / Life Sciences / Botany": {
+    "alt_labels": [], 
+    "pref_label": "Science / Life Sciences / Botany", 
+    "notation": "SCI011000"
+  }, 
   "Medical / Nursing / Nurse & Patient": {
     "alt_labels": [], 
     "pref_label": "Medical / Nursing / Nurse & Patient", 
     "notation": "MED058140"
+  }, 
+  "Poetry / Subjects & Themes / General": {
+    "alt_labels": [], 
+    "pref_label": "Poetry / Subjects & Themes / General", 
+    "notation": "POE023000"
   }, 
   "Medical / Essays": {
     "alt_labels": [], 
@@ -8679,6 +8636,11 @@
     ], 
     "pref_label": "History / Social History", 
     "notation": "HIS054000"
+  }, 
+  "Poetry / Women Authors": {
+    "alt_labels": [], 
+    "pref_label": "Poetry / Women Authors", 
+    "notation": "POE024000"
   }, 
   "Mathematics / Differential Equations / Partial": {
     "alt_labels": [], 
@@ -8705,6 +8667,11 @@
     "pref_label": "Gardening / Regional / West (ak, Ca, Co, Hi, Id, Mt, Nv, Ut, Wy)", 
     "notation": "GAR019080"
   }, 
+  "Science / Spectroscopy & Spectrum Analysis": {
+    "alt_labels": [], 
+    "pref_label": "Science / Spectroscopy & Spectrum Analysis", 
+    "notation": "SCI078000"
+  }, 
   "Juvenile Nonfiction / Science & Nature / Trees & Forests": {
     "alt_labels": [], 
     "pref_label": "Juvenile Nonfiction / Science & Nature / Trees & Forests", 
@@ -8727,10 +8694,10 @@
     "pref_label": "Law / Science & Technology", 
     "notation": "LAW099000"
   }, 
-  "Transportation / Navigation": {
+  "Poetry / Asian / Chinese": {
     "alt_labels": [], 
-    "pref_label": "Transportation / Navigation", 
-    "notation": "TRA008000"
+    "pref_label": "Poetry / Asian / Chinese", 
+    "notation": "POE009010"
   }, 
   "Juvenile Nonfiction / Animals / Mice, Hamsters, Guinea Pigs, Squirrels, Etc.": {
     "alt_labels": [], 
@@ -8772,20 +8739,35 @@
     "pref_label": "Law / Family Law / Children", 
     "notation": "LAW038010"
   }, 
+  "Juvenile Fiction / Dystopian": {
+    "alt_labels": [], 
+    "pref_label": "Juvenile Fiction / Dystopian", 
+    "notation": "JUV059000"
+  }, 
   "Fiction / Technological": {
     "alt_labels": [], 
     "pref_label": "Fiction / Technological", 
     "notation": "FIC036000"
+  }, 
+  "Education / Administration / Higher": {
+    "alt_labels": [], 
+    "pref_label": "Education / Administration / Higher", 
+    "notation": "EDU001030"
+  }, 
+  "Drama / Women Authors": {
+    "alt_labels": [], 
+    "pref_label": "Drama / Women Authors", 
+    "notation": "DRA019000"
   }, 
   "Computers / Operating Systems / Macintosh": {
     "alt_labels": [], 
     "pref_label": "Computers / Operating Systems / Macintosh", 
     "notation": "COM046020"
   }, 
-  "Religion / Buddhism / Rituals & Practice": {
+  "Drama / American / African American": {
     "alt_labels": [], 
-    "pref_label": "Religion / Buddhism / Rituals & Practice", 
-    "notation": "REL007020"
+    "pref_label": "Drama / American / African American", 
+    "notation": "DRA001010"
   }, 
   "Body, Mind & Spirit / Witchcraft & Wicca": {
     "alt_labels": [
@@ -8853,6 +8835,11 @@
     "alt_labels": [], 
     "pref_label": "Juvenile Nonfiction / Games & Activities / Puzzles", 
     "notation": "JNF021040"
+  }, 
+  "Photography / Business Aspects": {
+    "alt_labels": [], 
+    "pref_label": "Photography / Business Aspects", 
+    "notation": "PHO003000"
   }, 
   "Juvenile Nonfiction / Performing Arts / Circus": {
     "alt_labels": [], 
@@ -9000,6 +8987,13 @@
     "pref_label": "Medical / Orthopedics", 
     "notation": "MED065000"
   }, 
+  "Reference / Bibliographies & Indexes": {
+    "alt_labels": [
+      "Reference / Indexes"
+    ], 
+    "pref_label": "Reference / Bibliographies & Indexes", 
+    "notation": "REF004000"
+  }, 
   "Cooking / Courses & Dishes / Soups & Stews": {
     "alt_labels": [], 
     "pref_label": "Cooking / Courses & Dishes / Soups & Stews", 
@@ -9076,10 +9070,10 @@
     "pref_label": "Juvenile Fiction / Sports & Recreation / Equestrian", 
     "notation": "JUV032090"
   }, 
-  "Cooking / Regional & Ethnic / Spanish": {
+  "Law / Reference": {
     "alt_labels": [], 
-    "pref_label": "Cooking / Regional & Ethnic / Spanish", 
-    "notation": "CKB080000"
+    "pref_label": "Law / Reference", 
+    "notation": "LAW079000"
   }, 
   "Foreign Language Study / Turkish & Turkic Languages": {
     "alt_labels": [], 
@@ -9197,6 +9191,11 @@
     "pref_label": "Health & Fitness / Pain Management", 
     "notation": "HEA036000"
   }, 
+  "Education / Rural": {
+    "alt_labels": [], 
+    "pref_label": "Education / Rural", 
+    "notation": "EDU052000"
+  }, 
   "Law / Antitrust": {
     "alt_labels": [], 
     "pref_label": "Law / Antitrust", 
@@ -9272,6 +9271,11 @@
     "pref_label": "Nature / Ecosystems & Habitats / Plains & Prairies", 
     "notation": "NAT045020"
   }, 
+  "Science / Physics / General": {
+    "alt_labels": [], 
+    "pref_label": "Science / Physics / General", 
+    "notation": "SCI055000"
+  }, 
   "Education / Decision-making & Problem Solving": {
     "alt_labels": [], 
     "pref_label": "Education / Decision-making & Problem Solving", 
@@ -9337,6 +9341,18 @@
     "pref_label": "Cooking / Methods / Wok", 
     "notation": "CKB089000"
   }, 
+  "Political Science / Propaganda": {
+    "alt_labels": [], 
+    "pref_label": "Political Science / Propaganda", 
+    "notation": "POL049000"
+  }, 
+  "Political Science / Utopias": {
+    "alt_labels": [
+      "Philosophy / Utopian"
+    ], 
+    "pref_label": "Political Science / Utopias", 
+    "notation": "POL051000"
+  }, 
   "Cooking / Beverages / General": {
     "alt_labels": [], 
     "pref_label": "Cooking / Beverages / General", 
@@ -9381,11 +9397,6 @@
     "alt_labels": [], 
     "pref_label": "Computers / Operating Systems / General", 
     "notation": "COM046000"
-  }, 
-  "Technology & Engineering / Operations Research": {
-    "alt_labels": [], 
-    "pref_label": "Technology & Engineering / Operations Research", 
-    "notation": "TEC029000"
   }, 
   "Social Science / Ethnic Studies / Native American Studies": {
     "alt_labels": [], 
@@ -9452,11 +9463,6 @@
     "pref_label": "Law / Legal Services", 
     "notation": "LAW062000"
   }, 
-  "Comics & Graphic Novels / Manga / Gay & Lesbian": {
-    "alt_labels": [], 
-    "pref_label": "Comics & Graphic Novels / Manga / Gay & Lesbian", 
-    "notation": "CGN004130"
-  }, 
   "Sports & Recreation / Training": {
     "alt_labels": [], 
     "pref_label": "Sports & Recreation / Training", 
@@ -9512,10 +9518,10 @@
     "pref_label": "House & Home / House Plans", 
     "notation": "HOM011000"
   }, 
-  "Literary Collections / European / Spanish & Portuguese *": {
+  "Business & Economics / Labor": {
     "alt_labels": [], 
-    "pref_label": "Literary Collections / European / Spanish & Portuguese *", 
-    "notation": "LCO008060"
+    "pref_label": "Business & Economics / Labor", 
+    "notation": "BUS038000"
   }, 
   "Mathematics / Number Theory": {
     "alt_labels": [], 
@@ -9667,11 +9673,6 @@
     "pref_label": "Art / Reference", 
     "notation": "ART025000"
   }, 
-  "Political Science / Imperialism *": {
-    "alt_labels": [], 
-    "pref_label": "Political Science / Imperialism *", 
-    "notation": "POL047000"
-  }, 
   "Religion / Christian Church / Canon & Ecclesiastical Law": {
     "alt_labels": [], 
     "pref_label": "Religion / Christian Church / Canon & Ecclesiastical Law", 
@@ -9688,6 +9689,11 @@
     ], 
     "pref_label": "Nature / Earthquakes & Volcanoes", 
     "notation": "NAT009000"
+  }, 
+  "Drama / Medieval": {
+    "alt_labels": [], 
+    "pref_label": "Drama / Medieval", 
+    "notation": "DRA018000"
   }, 
   "Cooking / Courses & Dishes / Confectionery": {
     "alt_labels": [], 
@@ -9769,10 +9775,10 @@
     "pref_label": "Crafts & Hobbies / Needlework / General", 
     "notation": "CRA022000"
   }, 
-  "Science / Life Sciences / Cell Biology": {
+  "Computers / Data Transmission Systems / Electronic Data Interchange": {
     "alt_labels": [], 
-    "pref_label": "Science / Life Sciences / Cell Biology", 
-    "notation": "SCI017000"
+    "pref_label": "Computers / Data Transmission Systems / Electronic Data Interchange", 
+    "notation": "COM020010"
   }, 
   "Literary Collections / European / English, Irish, Scottish, Welsh": {
     "alt_labels": [], 
@@ -9785,7 +9791,9 @@
     "notation": "MAT019000"
   }, 
   "Education / Secondary": {
-    "alt_labels": [], 
+    "alt_labels": [
+      "Education / Administration / Elementary &"
+    ], 
     "pref_label": "Education / Secondary", 
     "notation": "EDU025000"
   }, 
@@ -9794,15 +9802,15 @@
     "pref_label": "Technology & Engineering / Reference", 
     "notation": "TEC035000"
   }, 
+  "Poetry / Medieval": {
+    "alt_labels": [], 
+    "pref_label": "Poetry / Medieval", 
+    "notation": "POE022000"
+  }, 
   "Political Science / Civics & Citizenship": {
     "alt_labels": [], 
     "pref_label": "Political Science / Civics & Citizenship", 
     "notation": "POL003000"
-  }, 
-  "Poetry / European / Italian *": {
-    "alt_labels": [], 
-    "pref_label": "Poetry / European / Italian *", 
-    "notation": "POE019000"
   }, 
   "Juvenile Fiction / Animals / Lions, Tigers, Leopards, Etc.": {
     "alt_labels": [], 
@@ -9876,10 +9884,10 @@
     "pref_label": "Business & Economics / Nonprofit Organizations & Charities", 
     "notation": "BUS074000"
   }, 
-  "Literary Collections / Ancient & Classical": {
+  "Crafts & Hobbies / Baskets": {
     "alt_labels": [], 
-    "pref_label": "Literary Collections / Ancient & Classical", 
-    "notation": "LCO003000"
+    "pref_label": "Crafts & Hobbies / Baskets", 
+    "notation": "CRA002000"
   }, 
   "Literary Collections / Middle Eastern": {
     "alt_labels": [], 
@@ -9990,15 +9998,15 @@
     "pref_label": "Juvenile Fiction / Stories In Verse", 
     "notation": "JUV057000"
   }, 
+  "Bibles / The Message / General": {
+    "alt_labels": [], 
+    "pref_label": "Bibles / The Message / General", 
+    "notation": "BIB020000"
+  }, 
   "Family & Relationships / General": {
     "alt_labels": [], 
     "pref_label": "Family & Relationships / General", 
     "notation": "FAM000000"
-  }, 
-  "Juvenile Fiction / Animals / Baby Animals *": {
-    "alt_labels": [], 
-    "pref_label": "Juvenile Fiction / Animals / Baby Animals *", 
-    "notation": "JUV002370"
   }, 
   "Cooking / Regional & Ethnic / American / Southern States": {
     "alt_labels": [], 
@@ -10063,16 +10071,6 @@
     ], 
     "pref_label": "Law / Legal Education", 
     "notation": "LAW059000"
-  }, 
-  "Education / Collaborative & Team Teaching *": {
-    "alt_labels": [], 
-    "pref_label": "Education / Collaborative & Team Teaching *", 
-    "notation": "EDU050000"
-  }, 
-  "Juvenile Fiction / Dystopian *": {
-    "alt_labels": [], 
-    "pref_label": "Juvenile Fiction / Dystopian *", 
-    "notation": "JUV059000"
   }, 
   "Fiction / Men's Adventure": {
     "alt_labels": [], 
@@ -10171,10 +10169,15 @@
     "pref_label": "Biography & Autobiography / Presidents & Heads Of State", 
     "notation": "BIO011000"
   }, 
-  "Education / Learning Styles *": {
+  "Travel / Europe / Switzerland": {
     "alt_labels": [], 
-    "pref_label": "Education / Learning Styles *", 
-    "notation": "EDU051000"
+    "pref_label": "Travel / Europe / Switzerland", 
+    "notation": "TRV009140"
+  }, 
+  "Juvenile Nonfiction / Biography & Autobiography / Royalty": {
+    "alt_labels": [], 
+    "pref_label": "Juvenile Nonfiction / Biography & Autobiography / Royalty", 
+    "notation": "JNF007140"
   }, 
   "Mathematics / Algebra / Abstract": {
     "alt_labels": [], 
@@ -10211,10 +10214,20 @@
     "pref_label": "Bibles / La Biblia De Las Americas / Study", 
     "notation": "BIB007050"
   }, 
+  "Political Science / World / Middle Eastern": {
+    "alt_labels": [], 
+    "pref_label": "Political Science / World / Middle Eastern", 
+    "notation": "POL059000"
+  }, 
   "Performing Arts / Film & Video / Screenwriting": {
     "alt_labels": [], 
     "pref_label": "Performing Arts / Film & Video / Screenwriting", 
     "notation": "PER004050"
+  }, 
+  "Literary Collections / Asian / Chinese": {
+    "alt_labels": [], 
+    "pref_label": "Literary Collections / Asian / Chinese", 
+    "notation": "LCO004010"
   }, 
   "Law / Consumer": {
     "alt_labels": [], 
@@ -10263,10 +10276,10 @@
     "pref_label": "Technology & Engineering / Construction / Plumbing", 
     "notation": "TEC005070"
   }, 
-  "Literary Criticism / Comics & Graphic Novels": {
+  "Language Arts & Disciplines / Linguistics / Morphology": {
     "alt_labels": [], 
-    "pref_label": "Literary Criticism / Comics & Graphic Novels", 
-    "notation": "LIT017000"
+    "pref_label": "Language Arts & Disciplines / Linguistics / Morphology", 
+    "notation": "LAN009020"
   }, 
   "Travel / Resorts & Spas": {
     "alt_labels": [], 
@@ -10312,10 +10325,10 @@
     "pref_label": "Law / Medical Law & Legislation", 
     "notation": "LAW093000"
   }, 
-  "Poetry / European / Spanish & Portuguese *": {
+  "Religion / Christian Life / Professional Growth": {
     "alt_labels": [], 
-    "pref_label": "Poetry / European / Spanish & Portuguese *", 
-    "notation": "POE020000"
+    "pref_label": "Religion / Christian Life / Professional Growth", 
+    "notation": "REL012090"
   }, 
   "Fiction / Fantasy / Paranormal": {
     "alt_labels": [], 
@@ -10694,6 +10707,11 @@
     "pref_label": "Law / Emigration & Immigration", 
     "notation": "LAW032000"
   }, 
+  "Poetry / European / German": {
+    "alt_labels": [], 
+    "pref_label": "Poetry / European / German", 
+    "notation": "PEO018000"
+  }, 
   "Health & Fitness / Alternative Therapies": {
     "alt_labels": [], 
     "pref_label": "Health & Fitness / Alternative Therapies", 
@@ -10728,6 +10746,11 @@
     "alt_labels": [], 
     "pref_label": "Juvenile Nonfiction / Performing Arts / Theater", 
     "notation": "JNF039050"
+  }, 
+  "Computers / Hardware / Mainframes & Minicomputers": {
+    "alt_labels": [], 
+    "pref_label": "Computers / Hardware / Mainframes & Minicomputers", 
+    "notation": "COM038000"
   }, 
   "Juvenile Nonfiction / Social Science / General": {
     "alt_labels": [], 
@@ -10778,10 +10801,10 @@
     "pref_label": "Crafts & Hobbies / Needlework / Knitting", 
     "notation": "CRA015000"
   }, 
-  "Education / Urban *": {
+  "Cooking / Courses & Dishes / Cakes": {
     "alt_labels": [], 
-    "pref_label": "Education / Urban *", 
-    "notation": "EDU054000"
+    "pref_label": "Cooking / Courses & Dishes / Cakes", 
+    "notation": "CKB014000"
   }, 
   "Science / Mechanics / Dynamics": {
     "alt_labels": [], 
@@ -10833,11 +10856,6 @@
     "pref_label": "Architecture / Adaptive Reuse & Renovation", 
     "notation": "ARC022000"
   }, 
-  "Humor / Form / Trivia *": {
-    "alt_labels": [], 
-    "pref_label": "Humor / Form / Trivia *", 
-    "notation": "HUM016000"
-  }, 
   "Education / History": {
     "alt_labels": [], 
     "pref_label": "Education / History", 
@@ -10860,10 +10878,10 @@
     "pref_label": "Juvenile Fiction / School & Education", 
     "notation": "JUV035000"
   }, 
-  "Bibles / Other Translations / Reference": {
+  "Juvenile Fiction / Sports & Recreation / Basketball": {
     "alt_labels": [], 
-    "pref_label": "Bibles / Other Translations / Reference", 
-    "notation": "BIB018040"
+    "pref_label": "Juvenile Fiction / Sports & Recreation / Basketball", 
+    "notation": "JUV032020"
   }, 
   "Self-help / Motivational & Inspirational": {
     "alt_labels": [], 
@@ -10954,11 +10972,6 @@
     "pref_label": "Juvenile Fiction / Social Issues / Dating & Sex", 
     "notation": "JUV039190"
   }, 
-  "Juvenile Nonfiction / Biography & Autobiography / Presidents And First Families (u.s.) *": {
-    "alt_labels": [], 
-    "pref_label": "Juvenile Nonfiction / Biography & Autobiography / Presidents And First Families (u.s.) *", 
-    "notation": "JNF007130"
-  }, 
   "Art / History / Renaissance": {
     "alt_labels": [], 
     "pref_label": "Art / History / Renaissance", 
@@ -11024,10 +11037,10 @@
     "pref_label": "Music / Religious / Jewish", 
     "notation": "MUS048020"
   }, 
-  "Computers / Data Transmission Systems / Electronic Data Interchange": {
+  "Juvenile Nonfiction / Science & Nature / Weights & Measures": {
     "alt_labels": [], 
-    "pref_label": "Computers / Data Transmission Systems / Electronic Data Interchange", 
-    "notation": "COM020010"
+    "pref_label": "Juvenile Nonfiction / Science & Nature / Weights & Measures", 
+    "notation": "JNF051200"
   }, 
   "Business & Economics / E-commerce / Internet Marketing": {
     "alt_labels": [], 
@@ -11059,11 +11072,6 @@
     "pref_label": "Computers / System Administration / Linux & Unix Administration", 
     "notation": "COM088010"
   }, 
-  "Fiction / Amish & Mennonite *": {
-    "alt_labels": [], 
-    "pref_label": "Fiction / Amish & Mennonite *", 
-    "notation": "FIC053000"
-  }, 
   "Juvenile Fiction / Religious / Christian / Bedtime & Dreams": {
     "alt_labels": [], 
     "pref_label": "Juvenile Fiction / Religious / Christian / Bedtime & Dreams", 
@@ -11091,10 +11099,10 @@
     "pref_label": "Juvenile Nonfiction / Humor / General", 
     "notation": "JNF028000"
   }, 
-  "Drama / European / Italian *": {
+  "Health & Fitness / Diseases / Gastrointestinal": {
     "alt_labels": [], 
-    "pref_label": "Drama / European / Italian *", 
-    "notation": "DRA004030"
+    "pref_label": "Health & Fitness / Diseases / Gastrointestinal", 
+    "notation": "HEA039010"
   }, 
   "Mathematics / Essays": {
     "alt_labels": [], 
@@ -11274,10 +11282,10 @@
     "pref_label": "History / Europe / Eastern", 
     "notation": "HIS010010"
   }, 
-  "Comics & Graphic Novels / Manga / Religious *": {
+  "Bibles / Other Translations / Reference": {
     "alt_labels": [], 
-    "pref_label": "Comics & Graphic Novels / Manga / Religious *", 
-    "notation": "CGN004220"
+    "pref_label": "Bibles / Other Translations / Reference", 
+    "notation": "BIB018040"
   }, 
   "Juvenile Nonfiction / People & Places / Africa": {
     "alt_labels": [], 
@@ -11377,11 +11385,6 @@
     "alt_labels": [], 
     "pref_label": "Gardening / Trees", 
     "notation": "GAR024000"
-  }, 
-  "Political Science / World / Canadian *": {
-    "alt_labels": [], 
-    "pref_label": "Political Science / World / Canadian *", 
-    "notation": "POL056000"
   }, 
   "Psychology / Psychopathology / Addiction": {
     "alt_labels": [], 
@@ -11526,6 +11529,11 @@
     "pref_label": "Medical / Nursing / Medical & Surgical", 
     "notation": "MED058220"
   }, 
+  "Fiction / Mashups": {
+    "alt_labels": [], 
+    "pref_label": "Fiction / Mashups", 
+    "notation": "FIC05700"
+  }, 
   "House & Home / Repair": {
     "alt_labels": [], 
     "pref_label": "House & Home / Repair", 
@@ -11578,10 +11586,10 @@
     "pref_label": "Juvenile Fiction / Sports & Recreation / Skateboarding", 
     "notation": "JUV032140"
   }, 
-  "Juvenile Fiction / Concepts / Seasons": {
+  "Literary Collections / Gay & Lesbian": {
     "alt_labels": [], 
-    "pref_label": "Juvenile Fiction / Concepts / Seasons", 
-    "notation": "JUV009100"
+    "pref_label": "Literary Collections / Gay & Lesbian", 
+    "notation": "LCO016000"
   }, 
   "Social Science / Islamic Studies": {
     "alt_labels": [], 
@@ -11852,11 +11860,6 @@
     "pref_label": "Philosophy / Hermeneutics", 
     "notation": "PHI036000"
   }, 
-  "Drama / Asian / Japanese *": {
-    "alt_labels": [], 
-    "pref_label": "Drama / Asian / Japanese *", 
-    "notation": "DRA005010"
-  }, 
   "Literary Criticism / European / Spanish & Portuguese": {
     "alt_labels": [], 
     "pref_label": "Literary Criticism / European / Spanish & Portuguese", 
@@ -11916,11 +11919,6 @@
     "alt_labels": [], 
     "pref_label": "Bibles / Contemporary English Version / New Testament & Portions", 
     "notation": "BIB002030"
-  }, 
-  "Political Science / Political Ideologies / Radicalism *": {
-    "alt_labels": [], 
-    "pref_label": "Political Science / Political Ideologies / Radicalism *", 
-    "notation": "POL042040"
   }, 
   "Religion / Messianic Judaism": {
     "alt_labels": [], 
@@ -12055,11 +12053,6 @@
     "pref_label": "Pets / Horses / Riding", 
     "notation": "PET006010"
   }, 
-  "Nature / Ecosystems & Habitats / Lakes, Ponds & Swamps": {
-    "alt_labels": [], 
-    "pref_label": "Nature / Ecosystems & Habitats / Lakes, Ponds & Swamps", 
-    "notation": "NAT018000"
-  }, 
   "Art / Collections, Catalogs, Exhibitions / General": {
     "alt_labels": [], 
     "pref_label": "Art / Collections, Catalogs, Exhibitions / General", 
@@ -12070,15 +12063,15 @@
     "pref_label": "Juvenile Fiction / Transportation / Aviation", 
     "notation": "JUV041010"
   }, 
-  "Fiction / Hispanic & Latino *": {
-    "alt_labels": [], 
-    "pref_label": "Fiction / Hispanic & Latino *", 
-    "notation": "FIC05600"
-  }, 
   "Art / Subjects & Themes / Human Figure": {
     "alt_labels": [], 
     "pref_label": "Art / Subjects & Themes / Human Figure", 
     "notation": "ART050010"
+  }, 
+  "Literary Collections /  European / Italian": {
+    "alt_labels": [], 
+    "pref_label": "Literary Collections /  European / Italian", 
+    "notation": "LC008040"
   }, 
   "Medical / Cardiology": {
     "alt_labels": [
@@ -12149,11 +12142,6 @@
     "alt_labels": [], 
     "pref_label": "Juvenile Nonfiction / Social Issues / Runaways", 
     "notation": "JNF053150"
-  }, 
-  "Education / Training & Certification *": {
-    "alt_labels": [], 
-    "pref_label": "Education / Training & Certification *", 
-    "notation": "EDU053000"
   }, 
   "Fiction / Contemporary Women": {
     "alt_labels": [], 
@@ -12361,10 +12349,10 @@
     "pref_label": "Psychology / Movements / General", 
     "notation": "PSY045000"
   }, 
-  "Education / Behavioral Management *": {
+  "Religion / Judaism / General": {
     "alt_labels": [], 
-    "pref_label": "Education / Behavioral Management *", 
-    "notation": "EDU049000"
+    "pref_label": "Religion / Judaism / General", 
+    "notation": "REL040000"
   }, 
   "Business & Economics / Structural Adjustment": {
     "alt_labels": [], 
@@ -12403,6 +12391,11 @@
     "pref_label": "Social Science / Anthropology / Physical", 
     "notation": "SOC002020"
   }, 
+  "Education / Training & Certification": {
+    "alt_labels": [], 
+    "pref_label": "Education / Training & Certification", 
+    "notation": "EDU053000"
+  }, 
   "Cooking / Methods / Raw Food": {
     "alt_labels": [], 
     "pref_label": "Cooking / Methods / Raw Food", 
@@ -12432,6 +12425,13 @@
     "alt_labels": [], 
     "pref_label": "Computers / Buyer's Guides", 
     "notation": "COM006000"
+  }, 
+  "Self-help / Sexual Instruction": {
+    "alt_labels": [
+      "Family & Relationships / Sexuality"
+    ], 
+    "pref_label": "Self-help / Sexual Instruction", 
+    "notation": "SEL034000"
   }, 
   "Nature / Animals / Birds": {
     "alt_labels": [], 
@@ -12483,6 +12483,11 @@
     "pref_label": "Medical / Health Care Delivery", 
     "notation": "MED035000"
   }, 
+  "Drama / European / Italian": {
+    "alt_labels": [], 
+    "pref_label": "Drama / European / Italian", 
+    "notation": "DRA004030"
+  }, 
   "Science / Philosophy & Social Aspects": {
     "alt_labels": [
       "Science / Social Aspects"
@@ -12529,6 +12534,11 @@
     "alt_labels": [], 
     "pref_label": "Cooking / Specific Ingredients / Natural Foods", 
     "notation": "CKB059000"
+  }, 
+  "Political Science / World / European": {
+    "alt_labels": [], 
+    "pref_label": "Political Science / World / European", 
+    "notation": "POL058000"
   }, 
   "Juvenile Nonfiction / Religion / Christianity": {
     "alt_labels": [], 
@@ -12660,6 +12670,11 @@
     "pref_label": "Comics & Graphic Novels / Erotica", 
     "notation": "CGN004020"
   }, 
+  "Family & Relationships / Attention Deficit Disorder (add-adhd)": {
+    "alt_labels": [], 
+    "pref_label": "Family & Relationships / Attention Deficit Disorder (add-adhd)", 
+    "notation": "FAM047000"
+  }, 
   "Juvenile Fiction / People & Places / United States / Asian American": {
     "alt_labels": [], 
     "pref_label": "Juvenile Fiction / People & Places / United States / Asian American", 
@@ -12724,10 +12739,10 @@
     "pref_label": "Juvenile Nonfiction / Animals / Wolves & Coyotes", 
     "notation": "JNF003240"
   }, 
-  "Political Science / Women In Politics *": {
+  "Technology & Engineering / Operations Research": {
     "alt_labels": [], 
-    "pref_label": "Political Science / Women In Politics *", 
-    "notation": "POL052000"
+    "pref_label": "Technology & Engineering / Operations Research", 
+    "notation": "TEC029000"
   }, 
   "Business & Economics / Budgeting": {
     "alt_labels": [], 
@@ -12774,6 +12789,11 @@
     "pref_label": "Crafts & Hobbies / Fashion", 
     "notation": "CRA009000"
   }, 
+  "Poetry / Subjects & Themes / Love": {
+    "alt_labels": [], 
+    "pref_label": "Poetry / Subjects & Themes / Love", 
+    "notation": "POE023020"
+  }, 
   "Science / Mechanics / Aerodynamics": {
     "alt_labels": [], 
     "pref_label": "Science / Mechanics / Aerodynamics", 
@@ -12810,11 +12830,6 @@
     "alt_labels": [], 
     "pref_label": "Comics & Graphic Novels / Horror", 
     "notation": "CGN004040"
-  }, 
-  "Religion / Biblical Studies / General": {
-    "alt_labels": [], 
-    "pref_label": "Religion / Biblical Studies / General", 
-    "notation": "REL006000"
   }, 
   "Health & Fitness / Work-related Health": {
     "alt_labels": [], 
@@ -12910,6 +12925,11 @@
     "alt_labels": [], 
     "pref_label": "Music / Printed Music / Artist Specific", 
     "notation": "MUS037010"
+  }, 
+  "Family & Relationships / Peer Pressure": {
+    "alt_labels": [], 
+    "pref_label": "Family & Relationships / Peer Pressure", 
+    "notation": "FAM035000"
   }, 
   "Bibles / The Message / Text": {
     "alt_labels": [], 
@@ -13060,10 +13080,10 @@
     "pref_label": "Study Aids / Citizenship", 
     "notation": "STU006000"
   }, 
-  "Performing Arts / Television / General": {
+  "Humor / Topic / Sports": {
     "alt_labels": [], 
-    "pref_label": "Performing Arts / Television / General", 
-    "notation": "PER010000"
+    "pref_label": "Humor / Topic / Sports", 
+    "notation": "HUM013000"
   }, 
   "Philosophy / Religious": {
     "alt_labels": [], 
@@ -13145,11 +13165,6 @@
     "pref_label": "Medical / Veterinary Medicine / Food Animal", 
     "notation": "MED089020"
   }, 
-  "Fiction / Mashups *": {
-    "alt_labels": [], 
-    "pref_label": "Fiction / Mashups *", 
-    "notation": "FIC05700"
-  }, 
   "Juvenile Nonfiction / Technology / Electricity & Electronics": {
     "alt_labels": [], 
     "pref_label": "Juvenile Nonfiction / Technology / Electricity & Electronics", 
@@ -13175,10 +13190,10 @@
     "pref_label": "Psychology / Developmental / General", 
     "notation": "PSY039000"
   }, 
-  "Poetry / Subjects & Themes / Death *": {
+  "Psychology / Psychotherapy / Group": {
     "alt_labels": [], 
-    "pref_label": "Poetry / Subjects & Themes / Death *", 
-    "notation": "POE023010"
+    "pref_label": "Psychology / Psychotherapy / Group", 
+    "notation": "PSY048000"
   }, 
   "History / United States / 21st Century": {
     "alt_labels": [], 
@@ -13384,11 +13399,6 @@
     "pref_label": "Foreign Language Study / Swedish", 
     "notation": "FOR043000"
   }, 
-  "Medical / Surgery / Neurosurgery": {
-    "alt_labels": [], 
-    "pref_label": "Medical / Surgery / Neurosurgery", 
-    "notation": "MED085010"
-  }, 
   "History / Europe / Baltic States": {
     "alt_labels": [], 
     "pref_label": "History / Europe / Baltic States", 
@@ -13464,11 +13474,6 @@
     "pref_label": "Architecture / Buildings / General", 
     "notation": "ARC024000"
   }, 
-  "Social Science / Folklore & Mythology": {
-    "alt_labels": [], 
-    "pref_label": "Social Science / Folklore & Mythology", 
-    "notation": "SOC011000"
-  }, 
   "Psychology / Psychopathology / Dissociative Identity Disorder": {
     "alt_labels": [], 
     "pref_label": "Psychology / Psychopathology / Dissociative Identity Disorder", 
@@ -13493,6 +13498,11 @@
     "alt_labels": [], 
     "pref_label": "Religion / Judaism / Orthodox", 
     "notation": "REL040070"
+  }, 
+  "Education / Collaborative & Team Teaching": {
+    "alt_labels": [], 
+    "pref_label": "Education / Collaborative & Team Teaching", 
+    "notation": "EDU050000"
   }, 
   "Cooking / Beverages / Bartending": {
     "alt_labels": [], 
@@ -13688,6 +13698,11 @@
     "pref_label": "Fiction / African American / Contemporary Women", 
     "notation": "FIC049020"
   }, 
+  "Transportation / Navigation": {
+    "alt_labels": [], 
+    "pref_label": "Transportation / Navigation", 
+    "notation": "TRA008000"
+  }, 
   "Bibles / Contemporary English Version / Children": {
     "alt_labels": [], 
     "pref_label": "Bibles / Contemporary English Version / Children", 
@@ -13705,10 +13720,10 @@
     "pref_label": "Travel / Special Interest / Pets", 
     "notation": "TRV026040"
   }, 
-  "Drama / Women Authors *": {
+  "Foreign Language Study / Persian": {
     "alt_labels": [], 
-    "pref_label": "Drama / Women Authors *", 
-    "notation": "DRA019000"
+    "pref_label": "Foreign Language Study / Persian", 
+    "notation": "FOR040000"
   }, 
   "Fiction / African American / Christian": {
     "alt_labels": [], 
@@ -13729,11 +13744,6 @@
     "alt_labels": [], 
     "pref_label": "Sports & Recreation / Bowling", 
     "notation": "SPO007000"
-  }, 
-  "Literary Collections / Women Authors *": {
-    "alt_labels": [], 
-    "pref_label": "Literary Collections / Women Authors *", 
-    "notation": "LCO019000"
   }, 
   "Mathematics / Study & Teaching": {
     "alt_labels": [], 
@@ -13759,6 +13769,11 @@
     "alt_labels": [], 
     "pref_label": "Transportation / General", 
     "notation": "TRA000000"
+  }, 
+  "Poetry / Subjects & Themes / Nature": {
+    "alt_labels": [], 
+    "pref_label": "Poetry / Subjects & Themes / Nature", 
+    "notation": "POE023030"
   }, 
   "Design / Graphic Arts / General": {
     "alt_labels": [], 
@@ -13794,11 +13809,6 @@
     "alt_labels": [], 
     "pref_label": "Comics & Graphic Novels / Manga / Romance", 
     "notation": "CGN004180"
-  }, 
-  "Political Science / World / African *": {
-    "alt_labels": [], 
-    "pref_label": "Political Science / World / African *", 
-    "notation": "POL053000"
   }, 
   "Bibles / The Message / Devotional": {
     "alt_labels": [], 
@@ -13846,11 +13856,6 @@
     "alt_labels": [], 
     "pref_label": "Juvenile Fiction / Family / Orphans & Foster Homes", 
     "notation": "JUV013050"
-  }, 
-  "Political Science / American Government / Judicial Branch": {
-    "alt_labels": [], 
-    "pref_label": "Political Science / American Government / Judicial Branch", 
-    "notation": "POL040030"
   }, 
   "Religion / Christian Life / Inspirational": {
     "alt_labels": [], 
@@ -14030,10 +14035,10 @@
     "pref_label": "Family & Relationships / Baby Names", 
     "notation": "FAM008000"
   }, 
-  "Art / Art & Politics": {
+  "Fiction / Hispanic & Latino": {
     "alt_labels": [], 
-    "pref_label": "Art / Art & Politics", 
-    "notation": "ART037000"
+    "pref_label": "Fiction / Hispanic & Latino", 
+    "notation": "FIC05600"
   }, 
   "Juvenile Fiction / People & Places / United States / General": {
     "alt_labels": [], 
@@ -14080,15 +14085,10 @@
     "pref_label": "Art / Techniques / Pencil Drawing", 
     "notation": "ART034000"
   }, 
-  "Education / Rural *": {
+  "Body, Mind & Spirit / Supernatural": {
     "alt_labels": [], 
-    "pref_label": "Education / Rural *", 
-    "notation": "EDU052000"
-  }, 
-  "Education / Teaching Methods & Materials / Science & Technology": {
-    "alt_labels": [], 
-    "pref_label": "Education / Teaching Methods & Materials / Science & Technology", 
-    "notation": "EDU029030"
+    "pref_label": "Body, Mind & Spirit / Supernatural", 
+    "notation": "OCC023000"
   }, 
   "Juvenile Nonfiction / Sports & Recreation / Olympics": {
     "alt_labels": [], 
@@ -14105,10 +14105,10 @@
     "pref_label": "Juvenile Fiction / Sports & Recreation / Camping & Outdoor Activities", 
     "notation": "JUV032170"
   }, 
-  "Family & Relationships / Life Stages / Infants & Toddlers": {
+  "Family & Relationships / Parenting / Single Parent": {
     "alt_labels": [], 
-    "pref_label": "Family & Relationships / Life Stages / Infants & Toddlers", 
-    "notation": "FAM025000"
+    "pref_label": "Family & Relationships / Parenting / Single Parent", 
+    "notation": "FAM034010"
   }, 
   "Medical / Medical History & Records": {
     "alt_labels": [], 
@@ -14242,15 +14242,10 @@
     "pref_label": "Travel / United States / Midwest / General", 
     "notation": "TRV025010"
   }, 
-  "Psychology / Psychotherapy / Group": {
+  "Religion / Buddhism / Rituals & Practice": {
     "alt_labels": [], 
-    "pref_label": "Psychology / Psychotherapy / Group", 
-    "notation": "PSY048000"
-  }, 
-  "Science / Life Sciences / Botany": {
-    "alt_labels": [], 
-    "pref_label": "Science / Life Sciences / Botany", 
-    "notation": "SCI011000"
+    "pref_label": "Religion / Buddhism / Rituals & Practice", 
+    "notation": "REL007020"
   }, 
   "Juvenile Nonfiction / Social Issues / Manners & Etiquette": {
     "alt_labels": [], 
@@ -14394,11 +14389,6 @@
     "pref_label": "Travel / Essays & Travelogues", 
     "notation": "TRV010000"
   }, 
-  "Poetry / Medieval *": {
-    "alt_labels": [], 
-    "pref_label": "Poetry / Medieval *", 
-    "notation": "POE022000"
-  }, 
   "Health & Fitness / Diseases / Alzheimer's & Dementia": {
     "alt_labels": [], 
     "pref_label": "Health & Fitness / Diseases / Alzheimer's & Dementia", 
@@ -14489,10 +14479,10 @@
     "pref_label": "Religion / Christian Education / General", 
     "notation": "REL011000"
   }, 
-  "Political Science / Propaganda *": {
+  "Religion / Christian Theology / Systematic": {
     "alt_labels": [], 
-    "pref_label": "Political Science / Propaganda *", 
-    "notation": "POL049000"
+    "pref_label": "Religion / Christian Theology / Systematic", 
+    "notation": "REL067110"
   }, 
   "Transportation / Motorcycles / Pictorial": {
     "alt_labels": [], 
@@ -14539,11 +14529,6 @@
     "pref_label": "Medical / Education & Training", 
     "notation": "MED024000"
   }, 
-  "Health & Fitness / Body Cleansing & Detoxification *": {
-    "alt_labels": [], 
-    "pref_label": "Health & Fitness / Body Cleansing & Detoxification *", 
-    "notation": "HEA047000"
-  }, 
   "Juvenile Fiction / Holidays & Celebrations / Patriotic Holidays": {
     "alt_labels": [], 
     "pref_label": "Juvenile Fiction / Holidays & Celebrations / Patriotic Holidays", 
@@ -14581,10 +14566,10 @@
     "pref_label": "Bibles / New Revised Standard Version / Study", 
     "notation": "BIB016050"
   }, 
-  "Computers / Hardware / Mainframes & Minicomputers": {
+  "Juvenile Nonfiction / Health & Daily Living / Safety": {
     "alt_labels": [], 
-    "pref_label": "Computers / Hardware / Mainframes & Minicomputers", 
-    "notation": "COM038000"
+    "pref_label": "Juvenile Nonfiction / Health & Daily Living / Safety", 
+    "notation": "JNF024080"
   }, 
   "Sports & Recreation / Baseball / General": {
     "alt_labels": [], 
@@ -14798,11 +14783,6 @@
     "pref_label": "Music / Printed Music / Band & Orchestra", 
     "notation": "MUS037020"
   }, 
-  "Drama / European / German *": {
-    "alt_labels": [], 
-    "pref_label": "Drama / European / German *", 
-    "notation": "DRA004020"
-  }, 
   "Humor / Form / Comic Strips & Cartoons": {
     "alt_labels": [
       "Comics & Graphic Novels / Comics & Cartoons"
@@ -14885,10 +14865,10 @@
     "pref_label": "Technology & Engineering / Agriculture / Agronomy / General", 
     "notation": "TEC003080"
   }, 
-  "Language Arts & Disciplines / Linguistics / Morphology": {
+  "Juvenile Fiction / Family / Marriage & Divorce": {
     "alt_labels": [], 
-    "pref_label": "Language Arts & Disciplines / Linguistics / Morphology", 
-    "notation": "LAN009020"
+    "pref_label": "Juvenile Fiction / Family / Marriage & Divorce", 
+    "notation": "JUV013020"
   }, 
   "Juvenile Nonfiction / Animals / Dogs": {
     "alt_labels": [], 
@@ -14937,11 +14917,6 @@
     "alt_labels": [], 
     "pref_label": "Language Arts & Disciplines / Alphabets & Writing Systems", 
     "notation": "LAN001000"
-  }, 
-  "Fiction / Science Fiction / Steampunk *": {
-    "alt_labels": [], 
-    "pref_label": "Fiction / Science Fiction / Steampunk *", 
-    "notation": "FIC028060"
   }, 
   "Medical / Hospital Administration & Care": {
     "alt_labels": [], 
@@ -15008,10 +14983,10 @@
     "pref_label": "Juvenile Fiction / Concepts / Sounds", 
     "notation": "JUV009110"
   }, 
-  "Travel / United States / Northeast / New England (ct, Ma, Me, Nh, Ri, Vt)": {
+  "Education / Behavioral Management": {
     "alt_labels": [], 
-    "pref_label": "Travel / United States / Northeast / New England (ct, Ma, Me, Nh, Ri, Vt)", 
-    "notation": "TRV025060"
+    "pref_label": "Education / Behavioral Management", 
+    "notation": "EDU049000"
   }, 
   "Fiction / Fantasy / Urban Life": {
     "alt_labels": [], 
@@ -15182,11 +15157,6 @@
     "pref_label": "Law / Educational Law & Legislation", 
     "notation": "LAW092000"
   }, 
-  "Science / Study & Teaching": {
-    "alt_labels": [], 
-    "pref_label": "Science / Study & Teaching", 
-    "notation": "SCI063000"
-  }, 
   "Social Science / Ethnic Studies / Hispanic American Studies": {
     "alt_labels": [], 
     "pref_label": "Social Science / Ethnic Studies / Hispanic American Studies", 
@@ -15227,11 +15197,6 @@
     "pref_label": "Juvenile Nonfiction / Religious / Christian / Social Issues", 
     "notation": "JNF049290"
   }, 
-  "Juvenile Fiction / Family / Marriage & Divorce": {
-    "alt_labels": [], 
-    "pref_label": "Juvenile Fiction / Family / Marriage & Divorce", 
-    "notation": "JUV013020"
-  }, 
   "Sports & Recreation / Fencing": {
     "alt_labels": [], 
     "pref_label": "Sports & Recreation / Fencing", 
@@ -15243,6 +15208,11 @@
     ], 
     "pref_label": "Social Science / Feminism & Feminist Theory", 
     "notation": "SOC010000"
+  }, 
+  "Poetry / Subjects & Themes / Places": {
+    "alt_labels": [], 
+    "pref_label": "Poetry / Subjects & Themes / Places", 
+    "notation": "POE023040"
   }, 
   "Technology & Engineering / Holography": {
     "alt_labels": [], 
@@ -15296,11 +15266,6 @@
     "pref_label": "Sports & Recreation / Boating", 
     "notation": "SPO005000"
   }, 
-  "Drama / American / African American *": {
-    "alt_labels": [], 
-    "pref_label": "Drama / American / African American *", 
-    "notation": "DRA001010"
-  }, 
   "Bibles / New King James Version / Children": {
     "alt_labels": [], 
     "pref_label": "Bibles / New King James Version / Children", 
@@ -15339,6 +15304,11 @@
     "alt_labels": [], 
     "pref_label": "Technology & Engineering / Power Resources / Nuclear", 
     "notation": "TEC028000"
+  }, 
+  "Literary Collections / Asian / Indic": {
+    "alt_labels": [], 
+    "pref_label": "Literary Collections / Asian / Indic", 
+    "notation": "LCO004020"
   }, 
   "Business & Economics / Outsourcing": {
     "alt_labels": [], 
@@ -15394,6 +15364,11 @@
     "alt_labels": [], 
     "pref_label": "Education / Student Life & Student Affairs", 
     "notation": "EDU038000"
+  }, 
+  "Fiction / Asian American": {
+    "alt_labels": [], 
+    "pref_label": "Fiction / Asian American", 
+    "notation": "FIC054000"
   }, 
   "Study Aids / Clep (college-level Examination Program)": {
     "alt_labels": [], 
@@ -15462,6 +15437,11 @@
     "pref_label": "Medical / Reference", 
     "notation": "MED081000"
   }, 
+  "Political Science / Commentary & Opinion": {
+    "alt_labels": [], 
+    "pref_label": "Political Science / Commentary & Opinion", 
+    "notation": "POL046000"
+  }, 
   "Juvenile Nonfiction / Language Arts / Handwriting": {
     "alt_labels": [], 
     "pref_label": "Juvenile Nonfiction / Language Arts / Handwriting", 
@@ -15526,6 +15506,13 @@
     "pref_label": "Bibles / New Living Translation / Text", 
     "notation": "BIB015060"
   }, 
+  "Performing Arts / Monologues & Scenes": {
+    "alt_labels": [
+      "Drama / Monologues"
+    ], 
+    "pref_label": "Performing Arts / Monologues & Scenes", 
+    "notation": "PER020000"
+  }, 
   "Juvenile Nonfiction / Activity Books": {
     "alt_labels": [], 
     "pref_label": "Juvenile Nonfiction / Activity Books", 
@@ -15550,6 +15537,11 @@
     "alt_labels": [], 
     "pref_label": "Games / Card Games / Bridge", 
     "notation": "GAM002010"
+  }, 
+  "Drama / European / French": {
+    "alt_labels": [], 
+    "pref_label": "Drama / European / French", 
+    "notation": "DRA004010"
   }, 
   "Education / Physical Education": {
     "alt_labels": [], 
@@ -15854,6 +15846,11 @@
     "pref_label": "Fiction / Visionary & Metaphysical", 
     "notation": "FIC039000"
   }, 
+  "Political Science / World / Australian & Oceanian": {
+    "alt_labels": [], 
+    "pref_label": "Political Science / World / Australian & Oceanian", 
+    "notation": "POL055000"
+  }, 
   "Bibles / New International Reader's Version / Reference": {
     "alt_labels": [], 
     "pref_label": "Bibles / New International Reader's Version / Reference", 
@@ -15929,10 +15926,10 @@
     "pref_label": "Juvenile Nonfiction / Poetry / Humorous", 
     "notation": "JNF042010"
   }, 
-  "Design / Graphic Arts / Typography": {
+  "Education / Teaching Methods & Materials / Social Science": {
     "alt_labels": [], 
-    "pref_label": "Design / Graphic Arts / Typography", 
-    "notation": "DES007050"
+    "pref_label": "Education / Teaching Methods & Materials / Social Science", 
+    "notation": "EDU029040"
   }, 
   "Crafts & Hobbies / Printmaking": {
     "alt_labels": [], 
@@ -16025,6 +16022,11 @@
     "alt_labels": [], 
     "pref_label": "Study Aids / Lsat (law School Admission Test)", 
     "notation": "STU017000"
+  }, 
+  "Cooking / Regional & Ethnic / Spanish": {
+    "alt_labels": [], 
+    "pref_label": "Cooking / Regional & Ethnic / Spanish", 
+    "notation": "CKB080000"
   }, 
   "Reference / Atlases & Gazetteers": {
     "alt_labels": [], 
@@ -16126,6 +16128,11 @@
     "alt_labels": [], 
     "pref_label": "Law / Law Office Management", 
     "notation": "LAW056000"
+  }, 
+  "Political Science / World / Asian": {
+    "alt_labels": [], 
+    "pref_label": "Political Science / World / Asian", 
+    "notation": "POL054000"
   }, 
   "Business & Economics / Real Estate / Commercial": {
     "alt_labels": [], 
@@ -16322,11 +16329,6 @@
     "alt_labels": [], 
     "pref_label": "Law / Health", 
     "notation": "LAW046000"
-  }, 
-  "Political Science / World / Middle Eastern *": {
-    "alt_labels": [], 
-    "pref_label": "Political Science / World / Middle Eastern *", 
-    "notation": "POL059000"
   }, 
   "Juvenile Fiction / Historical / Africa": {
     "alt_labels": [], 
@@ -16594,15 +16596,20 @@
     "pref_label": "Travel / Middle East / Egypt", 
     "notation": "TRV015010"
   }, 
+  "Juvenile Nonfiction / Animals / Baby Animals": {
+    "alt_labels": [], 
+    "pref_label": "Juvenile Nonfiction / Animals / Baby Animals", 
+    "notation": "JNF003330"
+  }, 
   "Gardening / Climatic / Desert": {
     "alt_labels": [], 
     "pref_label": "Gardening / Climatic / Desert", 
     "notation": "GAR027010"
   }, 
-  "Family & Relationships / Child Development": {
+  "Juvenile Fiction / General": {
     "alt_labels": [], 
-    "pref_label": "Family & Relationships / Child Development", 
-    "notation": "FAM011000"
+    "pref_label": "Juvenile Fiction / General", 
+    "notation": "JUV000000"
   }, 
   "Computers / Microprocessors": {
     "alt_labels": [], 
@@ -16624,10 +16631,10 @@
     "pref_label": "Juvenile Fiction / Social Issues / Drugs, Alcohol, Substance Abuse", 
     "notation": "JUV039040"
   }, 
-  "Science / Spectroscopy & Spectrum Analysis": {
+  "Political Science / Public Policy / Communication Policy": {
     "alt_labels": [], 
-    "pref_label": "Science / Spectroscopy & Spectrum Analysis", 
-    "notation": "SCI078000"
+    "pref_label": "Political Science / Public Policy / Communication Policy", 
+    "notation": "POL050000"
   }, 
   "Law / Contracts": {
     "alt_labels": [], 
@@ -16858,11 +16865,6 @@
     "pref_label": "Science / Space Science", 
     "notation": "SCI098000"
   }, 
-  "Literary Criticism / Jewish": {
-    "alt_labels": [], 
-    "pref_label": "Literary Criticism / Jewish", 
-    "notation": "LIT004210"
-  }, 
   "Social Science / Demography": {
     "alt_labels": [], 
     "pref_label": "Social Science / Demography", 
@@ -16913,10 +16915,10 @@
     "pref_label": "Religion / Biblical Meditations / New Testament", 
     "notation": "REL006130"
   }, 
-  "Fiction / Romance / Time Travel": {
+  "Literary Collections / Speeches": {
     "alt_labels": [], 
-    "pref_label": "Fiction / Romance / Time Travel", 
-    "notation": "FIC027090"
+    "pref_label": "Literary Collections / Speeches", 
+    "notation": "LCO018000"
   }, 
   "Cooking / Regional & Ethnic / American / Northwestern States": {
     "alt_labels": [], 
@@ -16938,10 +16940,10 @@
     "pref_label": "Philosophy / History & Surveys / General", 
     "notation": "PHI009000"
   }, 
-  "Poetry / Asian / Japanese *": {
+  "History / United States / 20th Century": {
     "alt_labels": [], 
-    "pref_label": "Poetry / Asian / Japanese *", 
-    "notation": "POE009020"
+    "pref_label": "History / United States / 20th Century", 
+    "notation": "HIS036060"
   }, 
   "Performing Arts / Business Aspects": {
     "alt_labels": [], 
@@ -17060,10 +17062,10 @@
     "pref_label": "Mathematics / Finite Mathematics", 
     "notation": "MAT009000"
   }, 
-  "Computers / Computer Literacy": {
+  "Literary Collections / Medieval": {
     "alt_labels": [], 
-    "pref_label": "Computers / Computer Literacy", 
-    "notation": "COM013000"
+    "pref_label": "Literary Collections / Medieval", 
+    "notation": "LCO017000"
   }, 
   "Juvenile Fiction / Social Issues / Adolescence": {
     "alt_labels": [], 
@@ -17195,10 +17197,10 @@
     "pref_label": "Nature / Environmental Conservation & Protection", 
     "notation": "NAT011000"
   }, 
-  "Science / Life Sciences / Biochemistry": {
+  "Art / Art & Politics": {
     "alt_labels": [], 
-    "pref_label": "Science / Life Sciences / Biochemistry", 
-    "notation": "SCI007000"
+    "pref_label": "Art / Art & Politics", 
+    "notation": "ART037000"
   }, 
   "History / Americas (north, Central, South, West Indies)": {
     "alt_labels": [], 
@@ -17214,11 +17216,6 @@
     "alt_labels": [], 
     "pref_label": "Juvenile Fiction / Social Issues / New Experience", 
     "notation": "JUV039090"
-  }, 
-  "Religion / Judaism / General": {
-    "alt_labels": [], 
-    "pref_label": "Religion / Judaism / General", 
-    "notation": "REL040000"
   }, 
   "Computers / Digital Media / Graphics Applications": {
     "alt_labels": [], 
@@ -17240,6 +17237,11 @@
     "pref_label": "Religion / Christian Rituals & Practice / Sacraments", 
     "notation": "REL055010"
   }, 
+  "Fiction / Amish & Mennonite": {
+    "alt_labels": [], 
+    "pref_label": "Fiction / Amish & Mennonite", 
+    "notation": "FIC053000"
+  }, 
   "Sports & Recreation / Pool, Billiards, Snooker": {
     "alt_labels": [], 
     "pref_label": "Sports & Recreation / Pool, Billiards, Snooker", 
@@ -17249,11 +17251,6 @@
     "alt_labels": [], 
     "pref_label": "Computers / Programming Languages / C++", 
     "notation": "COM051070"
-  }, 
-  "Education / Vocational *": {
-    "alt_labels": [], 
-    "pref_label": "Education / Vocational *", 
-    "notation": "EDU056000"
   }, 
   "Family & Relationships / Parenting / Motherhood": {
     "alt_labels": [], 
@@ -17269,11 +17266,6 @@
     "alt_labels": [], 
     "pref_label": "Body, Mind & Spirit / Astrology / Horoscopes", 
     "notation": "OCC009000"
-  }, 
-  "Business & Economics / Labor": {
-    "alt_labels": [], 
-    "pref_label": "Business & Economics / Labor", 
-    "notation": "BUS038000"
   }, 
   "Science / Global Warming & Climate Change": {
     "alt_labels": [], 
@@ -17348,6 +17340,11 @@
     ], 
     "pref_label": "Sports & Recreation / Scuba & Snorkeling", 
     "notation": "SPO059000"
+  }, 
+  "Fiction / Romance / Science Fiction": {
+    "alt_labels": [], 
+    "pref_label": "Fiction / Romance / Science Fiction", 
+    "notation": "FIC027130"
   }, 
   "Juvenile Nonfiction / Adventure & Adventurers": {
     "alt_labels": [], 
@@ -17433,6 +17430,11 @@
     "pref_label": "Nature / General", 
     "notation": "NAT000000"
   }, 
+  "Drama / Gay & Lesbian": {
+    "alt_labels": [], 
+    "pref_label": "Drama / Gay & Lesbian", 
+    "notation": "DRA017000"
+  }, 
   "Law / Criminal Law / Juvenile Offenders": {
     "alt_labels": [], 
     "pref_label": "Law / Criminal Law / Juvenile Offenders", 
@@ -17459,11 +17461,6 @@
     "alt_labels": [], 
     "pref_label": "Pets / Birds", 
     "notation": "PET002000"
-  }, 
-  "Bibles / The Message / Youth & Teen": {
-    "alt_labels": [], 
-    "pref_label": "Bibles / The Message / Youth & Teen", 
-    "notation": "BIB020070"
   }, 
   "Photography / Subjects & Themes / Celebrations & Events": {
     "alt_labels": [], 
@@ -17594,6 +17591,11 @@
     "pref_label": "Technology & Engineering / Construction / Estimating", 
     "notation": "TEC005040"
   }, 
+  "Education / Urban": {
+    "alt_labels": [], 
+    "pref_label": "Education / Urban", 
+    "notation": "EDU054000"
+  }, 
   "Crafts & Hobbies / Weaving": {
     "alt_labels": [], 
     "pref_label": "Crafts & Hobbies / Weaving", 
@@ -17613,6 +17615,11 @@
     "alt_labels": [], 
     "pref_label": "Language Arts & Disciplines / Vocabulary", 
     "notation": "LAN021000"
+  }, 
+  "Political Science / World / African": {
+    "alt_labels": [], 
+    "pref_label": "Political Science / World / African", 
+    "notation": "POL053000"
   }, 
   "Gardening / Lawns": {
     "alt_labels": [], 
@@ -17754,10 +17761,10 @@
     "pref_label": "Gardening / Flowers / Bulbs", 
     "notation": "GAR004030"
   }, 
-  "Bibles / The Message / General": {
+  "Juvenile Nonfiction / Language Arts / Grammar": {
     "alt_labels": [], 
-    "pref_label": "Bibles / The Message / General", 
-    "notation": "BIB020000"
+    "pref_label": "Juvenile Nonfiction / Language Arts / Grammar", 
+    "notation": "JNF029020"
   }, 
   "Juvenile Nonfiction / Photography": {
     "alt_labels": [], 
@@ -17778,11 +17785,6 @@
     "alt_labels": [], 
     "pref_label": "Music / Religious / Christian", 
     "notation": "MUS048010"
-  }, 
-  "Religion / Christian Theology / Systematic": {
-    "alt_labels": [], 
-    "pref_label": "Religion / Christian Theology / Systematic", 
-    "notation": "REL067110"
   }, 
   "Technology & Engineering / Technical & Manufacturing Industries & Trades": {
     "alt_labels": [], 
@@ -17874,6 +17876,11 @@
     ], 
     "pref_label": "Social Science / Philanthropy & Charity", 
     "notation": "SOC033000"
+  }, 
+  "Juvenile Nonfiction / Biography & Autobiography / Presidents And First Families (u.s.)": {
+    "alt_labels": [], 
+    "pref_label": "Juvenile Nonfiction / Biography & Autobiography / Presidents And First Families (u.s.)", 
+    "notation": "JNF007130"
   }, 
   "Poetry / Ancient & Classical": {
     "alt_labels": [], 
@@ -17967,6 +17974,11 @@
     "pref_label": "Law / Remedies & Damages", 
     "notation": "LAW080000"
   }, 
+  "Cooking / Courses & Dishes / Brunch": {
+    "alt_labels": [], 
+    "pref_label": "Cooking / Courses & Dishes / Brunch", 
+    "notation": "CKB012000"
+  }, 
   "Juvenile Nonfiction / Performing Arts / General": {
     "alt_labels": [], 
     "pref_label": "Juvenile Nonfiction / Performing Arts / General", 
@@ -17981,11 +17993,6 @@
     "alt_labels": [], 
     "pref_label": "Religion / Holidays / General", 
     "notation": "REL034000"
-  }, 
-  "Juvenile Nonfiction / Religious / Christian / Holidays & Celebrations": {
-    "alt_labels": [], 
-    "pref_label": "Juvenile Nonfiction / Religious / Christian / Holidays & Celebrations", 
-    "notation": "JNF049240"
   }, 
   "Cooking / Regional & Ethnic / Turkish": {
     "alt_labels": [], 
@@ -18003,6 +18010,11 @@
     "alt_labels": [], 
     "pref_label": "Business & Economics / Negotiating", 
     "notation": "BUS047000"
+  }, 
+  "Poetry / European / Spanish & Portuguese": {
+    "alt_labels": [], 
+    "pref_label": "Poetry / European / Spanish & Portuguese", 
+    "notation": "POE020000"
   }, 
   "Science / Nanoscience": {
     "alt_labels": [], 
@@ -18181,10 +18193,10 @@
     "pref_label": "Travel / Restaurants", 
     "notation": "TRV022000"
   }, 
-  "Juvenile Nonfiction / Biography & Autobiography / Royalty *": {
+  "Religion / Biblical Studies / General": {
     "alt_labels": [], 
-    "pref_label": "Juvenile Nonfiction / Biography & Autobiography / Royalty *", 
-    "notation": "JNF007140"
+    "pref_label": "Religion / Biblical Studies / General", 
+    "notation": "REL006000"
   }, 
   "Juvenile Nonfiction / Foreign Language Study / General": {
     "alt_labels": [], 
@@ -18256,6 +18268,11 @@
     "pref_label": "Religion / Biblical Studies / History & Culture", 
     "notation": "REL006630"
   }, 
+  "Comics & Graphic Novels / Religious": {
+    "alt_labels": [], 
+    "pref_label": "Comics & Graphic Novels / Religious", 
+    "notation": "CGN011000"
+  }, 
   "Juvenile Fiction / Historical / United States / 20th Century": {
     "alt_labels": [], 
     "pref_label": "Juvenile Fiction / Historical / United States / 20th Century", 
@@ -18271,10 +18288,10 @@
     "pref_label": "Sports & Recreation / Archery", 
     "notation": "SPO002000"
   }, 
-  "Science / General": {
+  "Social Science / Folklore & Mythology": {
     "alt_labels": [], 
-    "pref_label": "Science / General", 
-    "notation": "SCI000000"
+    "pref_label": "Social Science / Folklore & Mythology", 
+    "notation": "SOC011000"
   }, 
   "Medical / Reproductive Medicine & Technology": {
     "alt_labels": [], 
@@ -18351,15 +18368,15 @@
     "pref_label": "Social Science / Essays", 
     "notation": "SOC041000"
   }, 
-  "Body, Mind & Spirit / Supernatural": {
+  "Education / Teaching Methods & Materials / Science & Technology": {
     "alt_labels": [], 
-    "pref_label": "Body, Mind & Spirit / Supernatural", 
-    "notation": "OCC023000"
+    "pref_label": "Education / Teaching Methods & Materials / Science & Technology", 
+    "notation": "EDU029030"
   }, 
-  "Family & Relationships / Parenting / Single Parent": {
+  "Family & Relationships / Life Stages / Infants & Toddlers": {
     "alt_labels": [], 
-    "pref_label": "Family & Relationships / Parenting / Single Parent", 
-    "notation": "FAM034010"
+    "pref_label": "Family & Relationships / Life Stages / Infants & Toddlers", 
+    "notation": "FAM025000"
   }, 
   "Performing Arts / Reference": {
     "alt_labels": [], 
@@ -18406,10 +18423,10 @@
     "pref_label": "Computers / Programming Languages / Ruby", 
     "notation": "COM051410"
   }, 
-  "Cooking / Courses & Dishes / Cakes": {
+  "Bibles / The Message / Youth & Teen": {
     "alt_labels": [], 
-    "pref_label": "Cooking / Courses & Dishes / Cakes", 
-    "notation": "CKB014000"
+    "pref_label": "Bibles / The Message / Youth & Teen", 
+    "notation": "BIB020070"
   }, 
   "Language Arts & Disciplines / Linguistics / Historical & Comparative": {
     "alt_labels": [], 
@@ -18500,11 +18517,6 @@
     "alt_labels": [], 
     "pref_label": "Travel / United States / Northeast / Middle Atlantic (nj, Ny, Pa)", 
     "notation": "TRV025050"
-  }, 
-  "Education / Administration / Higher *": {
-    "alt_labels": [], 
-    "pref_label": "Education / Administration / Higher *", 
-    "notation": "EDU001030"
   }, 
   "Health & Fitness / Homeopathy": {
     "alt_labels": [], 
@@ -18674,11 +18686,6 @@
     "pref_label": "Bibles / New Century Version / Study", 
     "notation": "BIB011050"
   }, 
-  "Religion / Islam / General": {
-    "alt_labels": [], 
-    "pref_label": "Religion / Islam / General", 
-    "notation": "REL037000"
-  }, 
   "Language Arts & Disciplines / Linguistics / Etymology": {
     "alt_labels": [
       "Reference / Etymology"
@@ -18783,15 +18790,15 @@
     "pref_label": "Business & Economics / Business Mathematics", 
     "notation": "BUS091000"
   }, 
-  "Literary Collections / African": {
+  "Political Science / World / Canadian": {
     "alt_labels": [], 
-    "pref_label": "Literary Collections / African", 
-    "notation": "LCO001000"
+    "pref_label": "Political Science / World / Canadian", 
+    "notation": "POL056000"
   }, 
-  "Juvenile Fiction / Sports & Recreation / Basketball": {
+  "Literary Collections / European / Spanish & Portuguese": {
     "alt_labels": [], 
-    "pref_label": "Juvenile Fiction / Sports & Recreation / Basketball", 
-    "notation": "JUV032020"
+    "pref_label": "Literary Collections / European / Spanish & Portuguese", 
+    "notation": "LCO008060"
   }, 
   "Juvenile Fiction / Animals / Turtles": {
     "alt_labels": [], 
@@ -18829,11 +18836,6 @@
     "alt_labels": [], 
     "pref_label": "Bibles / Contemporary English Version / Youth & Teen", 
     "notation": "BIB002070"
-  }, 
-  "Technology & Engineering / Sensors": {
-    "alt_labels": [], 
-    "pref_label": "Technology & Engineering / Sensors", 
-    "notation": "TEC064000"
   }, 
   "Crafts & Hobbies / Framing": {
     "alt_labels": [], 
@@ -18970,6 +18972,11 @@
     "pref_label": "Art / Sculpture & Installation", 
     "notation": "ART026000"
   }, 
+  "Literary Collections / European / French": {
+    "alt_labels": [], 
+    "pref_label": "Literary Collections / European / French", 
+    "notation": "LCO008020"
+  }, 
   "Business & Economics / Banks & Banking": {
     "alt_labels": [], 
     "pref_label": "Business & Economics / Banks & Banking", 
@@ -19020,10 +19027,10 @@
     "pref_label": "Juvenile Fiction / Action & Adventure / Pirates", 
     "notation": "JUV001020"
   }, 
-  "Juvenile Nonfiction / Language Arts / Grammar": {
+  "Health & Fitness / General": {
     "alt_labels": [], 
-    "pref_label": "Juvenile Nonfiction / Language Arts / Grammar", 
-    "notation": "JNF029020"
+    "pref_label": "Health & Fitness / General", 
+    "notation": "HEA000000"
   }, 
   "Literary Criticism / Caribbean & Latin American": {
     "alt_labels": [
@@ -19056,11 +19063,6 @@
     "alt_labels": [], 
     "pref_label": "Comics & Graphic Novels / Manga / Yaoi", 
     "notation": "CGN004210"
-  }, 
-  "Computers / Programming / General": {
-    "alt_labels": [], 
-    "pref_label": "Computers / Programming / General", 
-    "notation": "COM051000"
   }, 
   "Mathematics / Applied": {
     "alt_labels": [], 
@@ -19189,6 +19191,11 @@
     "pref_label": "Religion / Prayerbooks / Christian", 
     "notation": "REL052010"
   }, 
+  "Humor / Form / Trivia": {
+    "alt_labels": [], 
+    "pref_label": "Humor / Form / Trivia", 
+    "notation": "HUM016000"
+  }, 
   "Health & Fitness / Holism": {
     "alt_labels": [], 
     "pref_label": "Health & Fitness / Holism", 
@@ -19198,11 +19205,6 @@
     "alt_labels": [], 
     "pref_label": "Business & Economics / Taxation / Small Business", 
     "notation": "BUS064030"
-  }, 
-  "Juvenile Nonfiction / Science & Nature / Weights & Measures *": {
-    "alt_labels": [], 
-    "pref_label": "Juvenile Nonfiction / Science & Nature / Weights & Measures *", 
-    "notation": "JNF051200"
   }, 
   "Juvenile Nonfiction / Science & Nature / Biology": {
     "alt_labels": [], 

@@ -75,7 +75,7 @@ def urls():
         yield urljoin(url, a.attrib['href'])
 
 def format_label(s):
-    s = s.lower().strip()
+    s = s.lower().strip().strip(' *')
     parts = s.split(' ')
     parts = [p.capitalize() for p in parts]
     return ' '.join(parts)
